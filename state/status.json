@@ -1,11 +1,9 @@
 {
- "lastRun": "2026-11-17T23:42:36.465Z",
+ "lastRun": "2026-11-17T23:43:26.916Z",
  "week": 11,
  "myTeam": "Toe Guano",
  "myTeamId": 1,
- "newEvents": 0,
+ "newEvents": 1,
  "appDataBuilt": "2026-11-17T19:02:11.324Z",
- "errors": [
-  "Sleeper trending: ENOENT: no such file or directory, open '/home/runner/work/scout-desk/scout-desk/state/sleeper-espn-map.json'"
- ]
+ "errors": []
 }
