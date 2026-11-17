@@ -17,6 +17,7 @@ async function idMap(stateDir, now = Date.now()) {
   } catch (e) { /* rebuild */ }
   const db = await fetchJSON(BASE);
   const map = buildMap(db);
+  fs.mkdirSync(stateDir, { recursive: true });
   fs.writeFileSync(file, JSON.stringify({ at: new Date(now).toISOString(), map }));
   return map;
 }

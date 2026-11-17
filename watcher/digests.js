@@ -164,7 +164,8 @@ function waiverDigest(ctx, mode) {
   const helpNow = cands.filter((c) => c.addGainPpg >= cfg.thresholds.addGainPpg)
     .sort((a, b) => b.addGainPpg - a.addGainPpg).slice(0, lim.waiverCandidates);
   const helpIds = new Set(helpNow.map((c) => c.id));
-  const stash = cands.filter((c) => !helpIds.has(c.id) && ((c.dv || 0) >= cfg.thresholds.stashDv || c.usage === 'rising'))
+  // Stash: real dynasty value, or a rising role with at least a quarter of that value.
+  const stash = cands.filter((c) => !helpIds.has(c.id) && ((c.dv || 0) >= cfg.thresholds.stashDv || (c.usage === 'rising' && (c.dv || 0) >= cfg.thresholds.stashDv / 4)))
     .sort((a, b) => (b.dv || 0) - (a.dv || 0)).slice(0, lim.stashCandidates);
 
   // Drop candidates: my bench players who don't make the best lineup, lowest value first.
