@@ -1,0 +1,3040 @@
+{
+ "at": "2026-11-17T23:42:36.465Z",
+ "myTeamId": 1,
+ "week": 11,
+ "slots": {
+  "QB": 1,
+  "RB": 2,
+  "WR": 2,
+  "TE": 1,
+  "FLEX": 3
+ },
+ "faab": null,
+ "teams": {
+  "1": {
+   "id": 1,
+   "name": "Toe Guano",
+   "abbrev": "POOP",
+   "owner": "Austin Woodson",
+   "w": 4,
+   "l": 6,
+   "t": 0,
+   "pf": 1384,
+   "waiverRank": 4,
+   "faabLeft": null
+  },
+  "2": {
+   "id": 2,
+   "name": "Flaming Dragon",
+   "abbrev": "DRAG",
+   "owner": "Red Dragon",
+   "w": 6,
+   "l": 4,
+   "t": 0,
+   "pf": 1350,
+   "waiverRank": 10,
+   "faabLeft": null
+  },
+  "3": {
+   "id": 3,
+   "name": "Tuten-finity and Beyond!",
+   "abbrev": "Jess",
+   "owner": "Jessica Woodson",
+   "w": 7,
+   "l": 3,
+   "t": 0,
+   "pf": 1311,
+   "waiverRank": 11,
+   "faabLeft": null
+  },
+  "4": {
+   "id": 4,
+   "name": "Kalico Kritters ",
+   "abbrev": "KATs",
+   "owner": "Kyla Towles",
+   "w": 6,
+   "l": 4,
+   "t": 0,
+   "pf": 1217,
+   "waiverRank": 8,
+   "faabLeft": null
+  },
+  "5": {
+   "id": 5,
+   "name": "Lion to Myself",
+   "abbrev": "GRAM",
+   "owner": "Brenda Hunter",
+   "w": 5,
+   "l": 5,
+   "t": 0,
+   "pf": 1282,
+   "waiverRank": 7,
+   "faabLeft": null
+  },
+  "6": {
+   "id": 6,
+   "name": "NutzBurger B@llZack",
+   "abbrev": "BALz",
+   "owner": "Zack Woodson",
+   "w": 5,
+   "l": 5,
+   "t": 0,
+   "pf": 1128,
+   "waiverRank": 6,
+   "faabLeft": null
+  },
+  "7": {
+   "id": 7,
+   "name": "Project Hail Ja'Marry",
+   "abbrev": "PHJM",
+   "owner": "Brayden Woodson",
+   "w": 6,
+   "l": 4,
+   "t": 0,
+   "pf": 1337,
+   "waiverRank": 9,
+   "faabLeft": null
+  },
+  "9": {
+   "id": 9,
+   "name": "Sling n Rock",
+   "abbrev": "SLNR",
+   "owner": "Logan Woodson, Logan Woodson",
+   "w": 2,
+   "l": 8,
+   "t": 0,
+   "pf": 974,
+   "waiverRank": 1,
+   "faabLeft": null
+  },
+  "10": {
+   "id": 10,
+   "name": "Good Win Hunting. ",
+   "abbrev": "HUNT",
+   "owner": "David Hunter",
+   "w": 4,
+   "l": 6,
+   "t": 0,
+   "pf": 990,
+   "waiverRank": 2,
+   "faabLeft": null
+  },
+  "12": {
+   "id": 12,
+   "name": "Spartan solutions",
+   "abbrev": "CJP",
+   "owner": "Charles Phipps",
+   "w": 4,
+   "l": 6,
+   "t": 0,
+   "pf": 1386,
+   "waiverRank": 5,
+   "faabLeft": null
+  },
+  "13": {
+   "id": 13,
+   "name": "The Dog Team",
+   "abbrev": "TDT",
+   "owner": "Cody Williams",
+   "w": 7,
+   "l": 3,
+   "t": 0,
+   "pf": 1411,
+   "waiverRank": 12,
+   "faabLeft": null
+  },
+  "14": {
+   "id": 14,
+   "name": "Zachary's Honorable Team",
+   "abbrev": "ZHT",
+   "owner": "Zachary Perrin",
+   "w": 4,
+   "l": 6,
+   "t": 0,
+   "pf": 1190,
+   "waiverRank": 3,
+   "faabLeft": null
+  }
+ },
+ "rosters": {
+  "1": [
+   {
+    "id": "4429795",
+    "name": "Jahmyr Gibbs",
+    "pos": "RB",
+    "slot": "RB",
+    "pro": 8,
+    "inj": "ACTIVE",
+    "proj": 21.9
+   },
+   {
+    "id": "4567048",
+    "name": "Kenneth Walker III",
+    "pos": "RB",
+    "slot": "RB",
+    "pro": 12,
+    "inj": "QUESTIONABLE",
+    "proj": 25.7
+   },
+   {
+    "id": "4361370",
+    "name": "Chris Olave",
+    "pos": "WR",
+    "slot": "WR",
+    "pro": 18,
+    "inj": "ACTIVE",
+    "proj": 14.1
+   },
+   {
+    "id": "4871023",
+    "name": "Carnell Tate",
+    "pos": "WR",
+    "slot": "WR",
+    "pro": 10,
+    "inj": "QUESTIONABLE",
+    "proj": 13.2
+   },
+   {
+    "id": "4426388",
+    "name": "Jameson Williams",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 8,
+    "inj": "ACTIVE",
+    "proj": 11.2
+   },
+   {
+    "id": "4431299",
+    "name": "Rome Odunze",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 3,
+    "inj": "ACTIVE",
+    "proj": 11.5
+   },
+   {
+    "id": "4880281",
+    "name": "Jordyn Tyson",
+    "pos": "WR",
+    "slot": "FLEX",
+    "pro": 18,
+    "inj": "ACTIVE",
+    "proj": 11.7
+   },
+   {
+    "id": "4870795",
+    "name": "Makai Lemon",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 21,
+    "inj": "ACTIVE",
+    "proj": 5.7
+   },
+   {
+    "id": "5083315",
+    "name": "Kenyon Sadiq",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 20,
+    "inj": "ACTIVE",
+    "proj": 4.9
+   },
+   {
+    "id": "4702555",
+    "name": "Jonah Coleman",
+    "pos": "RB",
+    "slot": "FLEX",
+    "pro": 7,
+    "inj": "ACTIVE",
+    "proj": 19.4
+   },
+   {
+    "id": "4362619",
+    "name": "Chris Rodriguez Jr.",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 30,
+    "inj": "ACTIVE",
+    "proj": 5.8
+   },
+   {
+    "id": "4431492",
+    "name": "Roman Wilson",
+    "pos": "WR",
+    "slot": "IR",
+    "pro": 23,
+    "inj": "INJURY_RESERVE",
+    "proj": 7.3
+   },
+   {
+    "id": "2573401",
+    "name": "Tyler Higbee",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 14,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "2576925",
+    "name": "Darren Waller",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 29,
+    "inj": "ACTIVE",
+    "proj": 9.9
+   },
+   {
+    "id": "8439",
+    "name": "Aaron Rodgers",
+    "pos": "QB",
+    "slot": "BE",
+    "pro": 23,
+    "inj": "ACTIVE",
+    "proj": 18.5
+   },
+   {
+    "id": "4360689",
+    "name": "Tyler Shough",
+    "pos": "QB",
+    "slot": "QB",
+    "pro": 18,
+    "inj": "ACTIVE",
+    "proj": 16.8
+   },
+   {
+    "id": "4608686",
+    "name": "Kyle Monangai",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 3,
+    "inj": "QUESTIONABLE",
+    "proj": 8.9
+   },
+   {
+    "id": "4701936",
+    "name": "Matthew Golden",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 9,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4569618",
+    "name": "Garrett Wilson",
+    "pos": "WR",
+    "slot": "FLEX",
+    "pro": 20,
+    "inj": "ACTIVE",
+    "proj": 13.9
+   },
+   {
+    "id": "4685415",
+    "name": "Travis Hunter",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 30,
+    "inj": "ACTIVE",
+    "proj": 3.1
+   },
+   {
+    "id": "4360635",
+    "name": "Chig Okonkwo",
+    "pos": "TE",
+    "slot": "TE",
+    "pro": 28,
+    "inj": "ACTIVE",
+    "proj": 12.3
+   },
+   {
+    "id": "4567156",
+    "name": "Treylon Burks",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 28,
+    "inj": "ACTIVE",
+    "proj": 8.5
+   },
+   {
+    "id": "4360438",
+    "name": "Brandon Aiyuk",
+    "pos": "WR",
+    "slot": "IR",
+    "pro": 25,
+    "inj": "OUT",
+    "proj": null
+   },
+   {
+    "id": "4710855",
+    "name": "Konata Mumpfield",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 14,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4686728",
+    "name": "Gunnar Helm",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 10,
+    "inj": "ACTIVE",
+    "proj": 8.7
+   }
+  ],
+  "2": [
+   {
+    "id": "3915511",
+    "name": "Joe Burrow",
+    "pos": "QB",
+    "slot": "QB",
+    "pro": 4,
+    "inj": "ACTIVE",
+    "proj": 28.2
+   },
+   {
+    "id": "4374302",
+    "name": "Amon-Ra St. Brown",
+    "pos": "WR",
+    "slot": "WR",
+    "pro": 8,
+    "inj": "ACTIVE",
+    "proj": 17.7
+   },
+   {
+    "id": "4361579",
+    "name": "Javonte Williams",
+    "pos": "RB",
+    "slot": "RB",
+    "pro": 6,
+    "inj": "ACTIVE",
+    "proj": 19.5
+   },
+   {
+    "id": "3040151",
+    "name": "George Kittle",
+    "pos": "TE",
+    "slot": "TE",
+    "pro": 25,
+    "inj": "ACTIVE",
+    "proj": 15.4
+   },
+   {
+    "id": "4569173",
+    "name": "Rhamondre Stevenson",
+    "pos": "RB",
+    "slot": "FLEX",
+    "pro": 17,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "3046439",
+    "name": "Hunter Henry",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 17,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4683062",
+    "name": "Xavier Worthy",
+    "pos": "WR",
+    "slot": "WR",
+    "pro": 12,
+    "inj": "ACTIVE",
+    "proj": 7
+   },
+   {
+    "id": "4362249",
+    "name": "Jayden Reed",
+    "pos": "WR",
+    "slot": "IR",
+    "pro": 9,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "4361050",
+    "name": "Isaiah Likely",
+    "pos": "TE",
+    "slot": "FLEX",
+    "pro": 19,
+    "inj": "ACTIVE",
+    "proj": 16.1
+   },
+   {
+    "id": "4428557",
+    "name": "Tyjae Spears",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 10,
+    "inj": "ACTIVE",
+    "proj": 7.9
+   },
+   {
+    "id": "4596334",
+    "name": "Keaton Mitchell",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 24,
+    "inj": "ACTIVE",
+    "proj": 6.9
+   },
+   {
+    "id": "3925357",
+    "name": "Calvin Ridley",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 10,
+    "inj": "ACTIVE",
+    "proj": 5.9
+   },
+   {
+    "id": "3912547",
+    "name": "Sam Darnold",
+    "pos": "QB",
+    "slot": "BE",
+    "pro": 26,
+    "inj": "OUT",
+    "proj": 0
+   },
+   {
+    "id": "4360939",
+    "name": "Rashod Bateman",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 33,
+    "inj": "ACTIVE",
+    "proj": 4.9
+   },
+   {
+    "id": "4429501",
+    "name": "Ray Davis",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 2,
+    "inj": "ACTIVE",
+    "proj": 2.4
+   },
+   {
+    "id": "3886598",
+    "name": "Jauan Jennings",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 16,
+    "inj": "QUESTIONABLE",
+    "proj": 7.1
+   },
+   {
+    "id": "4711533",
+    "name": "Ollie Gordon II",
+    "pos": "RB",
+    "slot": "RB",
+    "pro": 15,
+    "inj": "ACTIVE",
+    "proj": 13.8
+   },
+   {
+    "id": "4596602",
+    "name": "Brashard Smith",
+    "pos": "RB",
+    "slot": "IR",
+    "pro": 12,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "3676833",
+    "name": "KaVontae Turpin",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 6,
+    "inj": "ACTIVE",
+    "proj": 2.4
+   },
+   {
+    "id": "4911851",
+    "name": "LeQuint Allen Jr.",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 30,
+    "inj": "ACTIVE",
+    "proj": 1.3
+   },
+   {
+    "id": "4695193",
+    "name": "Efton Chism III",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 17,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4429205",
+    "name": "Jordan Addison",
+    "pos": "WR",
+    "slot": "FLEX",
+    "pro": 16,
+    "inj": "OUT",
+    "proj": 0
+   },
+   {
+    "id": "4038941",
+    "name": "Justin Herbert",
+    "pos": "QB",
+    "slot": "BE",
+    "pro": 24,
+    "inj": "ACTIVE",
+    "proj": 17.1
+   }
+  ],
+  "3": [
+   {
+    "id": "3918298",
+    "name": "Josh Allen",
+    "pos": "QB",
+    "slot": "QB",
+    "pro": 2,
+    "inj": "ACTIVE",
+    "proj": 26.8
+   },
+   {
+    "id": "4258173",
+    "name": "Nico Collins",
+    "pos": "WR",
+    "slot": "WR",
+    "pro": 34,
+    "inj": "ACTIVE",
+    "proj": 15.8
+   },
+   {
+    "id": "4882093",
+    "name": "Bhayshul Tuten",
+    "pos": "RB",
+    "slot": "RB",
+    "pro": 30,
+    "inj": "ACTIVE",
+    "proj": 16.9
+   },
+   {
+    "id": "16800",
+    "name": "Davante Adams",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 14,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "5083076",
+    "name": "Harold Fannin Jr.",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 5,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4569987",
+    "name": "Jaylen Warren",
+    "pos": "RB",
+    "slot": "RB",
+    "pro": 23,
+    "inj": "ACTIVE",
+    "proj": 15.7
+   },
+   {
+    "id": "16737",
+    "name": "Mike Evans",
+    "pos": "WR",
+    "slot": "WR",
+    "pro": 25,
+    "inj": "QUESTIONABLE",
+    "proj": 12.1
+   },
+   {
+    "id": "4429059",
+    "name": "Woody Marks",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 34,
+    "inj": "DOUBTFUL",
+    "proj": 0
+   },
+   {
+    "id": "4373678",
+    "name": "Khalil Shakir",
+    "pos": "WR",
+    "slot": "FLEX",
+    "pro": 2,
+    "inj": "ACTIVE",
+    "proj": 9.4
+   },
+   {
+    "id": "4038441",
+    "name": "Justice Hill",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 33,
+    "inj": "ACTIVE",
+    "proj": 8.4
+   },
+   {
+    "id": "4361411",
+    "name": "Pat Freiermuth",
+    "pos": "TE",
+    "slot": "TE",
+    "pro": 23,
+    "inj": "ACTIVE",
+    "proj": 8.9
+   },
+   {
+    "id": "2977187",
+    "name": "Cooper Kupp",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 26,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4569603",
+    "name": "Malik Washington",
+    "pos": "WR",
+    "slot": "FLEX",
+    "pro": 15,
+    "inj": "ACTIVE",
+    "proj": 7.7
+   },
+   {
+    "id": "3116389",
+    "name": "Samaje Perine",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 4,
+    "inj": "ACTIVE",
+    "proj": 7.7
+   },
+   {
+    "id": "2991662",
+    "name": "Mack Hollins",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 17,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4361529",
+    "name": "Isiah Pacheco",
+    "pos": "RB",
+    "slot": "IR",
+    "pro": 8,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "4360423",
+    "name": "Michael Penix Jr.",
+    "pos": "QB",
+    "slot": "BE",
+    "pro": 1,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4602667",
+    "name": "Jaylin Lane",
+    "pos": "WR",
+    "slot": "IR",
+    "pro": 28,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "4430871",
+    "name": "Sean Tucker",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 27,
+    "inj": "ACTIVE",
+    "proj": 0.1
+   },
+   {
+    "id": "4258595",
+    "name": "Cole Kmet",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 3,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "4837248",
+    "name": "Fernando Mendoza",
+    "pos": "QB",
+    "slot": "BE",
+    "pro": 13,
+    "inj": "ACTIVE",
+    "proj": 16.7
+   },
+   {
+    "id": "3915416",
+    "name": "DJ Moore",
+    "pos": "WR",
+    "slot": "FLEX",
+    "pro": 2,
+    "inj": "ACTIVE",
+    "proj": 13.6
+   },
+   {
+    "id": "4427728",
+    "name": "Bam Knight",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 22,
+    "inj": "ACTIVE",
+    "proj": 7.4
+   },
+   {
+    "id": "4429022",
+    "name": "Kayshon Boutte",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 34,
+    "inj": "ACTIVE",
+    "proj": 8.2
+   },
+   {
+    "id": "4686248",
+    "name": "Nate Boerkircher",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 30,
+    "inj": "ACTIVE",
+    "proj": 4.2
+   }
+  ],
+  "4": [
+   {
+    "id": "4242335",
+    "name": "Jonathan Taylor",
+    "pos": "RB",
+    "slot": "RB",
+    "pro": 11,
+    "inj": "ACTIVE",
+    "proj": 16.4
+   },
+   {
+    "id": "4361307",
+    "name": "Trey McBride",
+    "pos": "TE",
+    "slot": "TE",
+    "pro": 22,
+    "inj": "ACTIVE",
+    "proj": 16.3
+   },
+   {
+    "id": "4428331",
+    "name": "Rashee Rice",
+    "pos": "WR",
+    "slot": "WR",
+    "pro": 12,
+    "inj": "ACTIVE",
+    "proj": 12.8
+   },
+   {
+    "id": "3917315",
+    "name": "Kyler Murray",
+    "pos": "QB",
+    "slot": "IR",
+    "pro": 16,
+    "inj": "OUT",
+    "proj": 0
+   },
+   {
+    "id": "4596448",
+    "name": "Bucky Irving",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 27,
+    "inj": "ACTIVE",
+    "proj": 17.1
+   },
+   {
+    "id": "3128429",
+    "name": "Courtland Sutton",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 7,
+    "inj": "ACTIVE",
+    "proj": 10.3
+   },
+   {
+    "id": "4241985",
+    "name": "J.K. Dobbins",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 7,
+    "inj": "ACTIVE",
+    "proj": 8.5
+   },
+   {
+    "id": "4036133",
+    "name": "T.J. Hockenson",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 16,
+    "inj": "QUESTIONABLE",
+    "proj": 14.4
+   },
+   {
+    "id": "2577417",
+    "name": "Dak Prescott",
+    "pos": "QB",
+    "slot": "QB",
+    "pro": 6,
+    "inj": "ACTIVE",
+    "proj": 26.9
+   },
+   {
+    "id": "3116365",
+    "name": "Mark Andrews",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 33,
+    "inj": "ACTIVE",
+    "proj": 9.7
+   },
+   {
+    "id": "4032473",
+    "name": "Rashid Shaheed",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 26,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4428718",
+    "name": "Tre Tucker",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 13,
+    "inj": "ACTIVE",
+    "proj": 8.2
+   },
+   {
+    "id": "4576297",
+    "name": "AJ Barner",
+    "pos": "TE",
+    "slot": "FLEX",
+    "pro": 26,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4367209",
+    "name": "Greg Dulcich",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 15,
+    "inj": "ACTIVE",
+    "proj": 8.6
+   },
+   {
+    "id": "4685261",
+    "name": "Germie Bernard",
+    "pos": "WR",
+    "slot": "FLEX",
+    "pro": 23,
+    "inj": "ACTIVE",
+    "proj": 3.2
+   },
+   {
+    "id": "4429086",
+    "name": "Michael Mayer",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 13,
+    "inj": "ACTIVE",
+    "proj": 8.8
+   },
+   {
+    "id": "4808766",
+    "name": "Mason Taylor",
+    "pos": "TE",
+    "slot": "FLEX",
+    "pro": 20,
+    "inj": "ACTIVE",
+    "proj": 8
+   },
+   {
+    "id": "4431280",
+    "name": "Troy Franklin",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 7,
+    "inj": "ACTIVE",
+    "proj": 3.8
+   },
+   {
+    "id": "4241372",
+    "name": "Hollywood Brown",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 0,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4686612",
+    "name": "Tre' Harris",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 24,
+    "inj": "ACTIVE",
+    "proj": 7
+   },
+   {
+    "id": "5123663",
+    "name": "Isaac TeSlaa",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 8,
+    "inj": "ACTIVE",
+    "proj": 4.5
+   },
+   {
+    "id": "4723820",
+    "name": "Omar Cooper Jr.",
+    "pos": "WR",
+    "slot": "WR",
+    "pro": 20,
+    "inj": "QUESTIONABLE",
+    "proj": 8.8
+   },
+   {
+    "id": "4698253",
+    "name": "Lan Larison",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 17,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4686658",
+    "name": "Mike Washington Jr.",
+    "pos": "RB",
+    "slot": "RB",
+    "pro": 13,
+    "inj": "ACTIVE",
+    "proj": 6.4
+   }
+  ],
+  "5": [
+   {
+    "id": "4430878",
+    "name": "Jaxon Smith-Njigba",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 26,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4685382",
+    "name": "Omarion Hampton",
+    "pos": "RB",
+    "slot": "RB",
+    "pro": 24,
+    "inj": "ACTIVE",
+    "proj": 12.6
+   },
+   {
+    "id": "4360310",
+    "name": "Trevor Lawrence",
+    "pos": "QB",
+    "slot": "QB",
+    "pro": 30,
+    "inj": "ACTIVE",
+    "proj": 23.9
+   },
+   {
+    "id": "4035538",
+    "name": "David Montgomery",
+    "pos": "RB",
+    "slot": "FLEX",
+    "pro": 34,
+    "inj": "ACTIVE",
+    "proj": 13.7
+   },
+   {
+    "id": "3121023",
+    "name": "Dallas Goedert",
+    "pos": "TE",
+    "slot": "TE",
+    "pro": 21,
+    "inj": "ACTIVE",
+    "proj": 10.2
+   },
+   {
+    "id": "4430539",
+    "name": "Brenton Strange",
+    "pos": "TE",
+    "slot": "FLEX",
+    "pro": 30,
+    "inj": "ACTIVE",
+    "proj": 9.7
+   },
+   {
+    "id": "4832800",
+    "name": "Denzel Boston",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 5,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4429023",
+    "name": "MarShawn Lloyd",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 9,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "3042519",
+    "name": "Aaron Jones Sr.",
+    "pos": "RB",
+    "slot": "FLEX",
+    "pro": 16,
+    "inj": "ACTIVE",
+    "proj": 8.4
+   },
+   {
+    "id": "4869645",
+    "name": "Caleb Douglas",
+    "pos": "WR",
+    "slot": "WR",
+    "pro": 15,
+    "inj": "ACTIVE",
+    "proj": 9.7
+   },
+   {
+    "id": "4870847",
+    "name": "Ja'Kobi Lane",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 33,
+    "inj": "ACTIVE",
+    "proj": 6.4
+   },
+   {
+    "id": "4685720",
+    "name": "Bryce Young",
+    "pos": "QB",
+    "slot": "BE",
+    "pro": 29,
+    "inj": "ACTIVE",
+    "proj": 21
+   },
+   {
+    "id": "4242557",
+    "name": "Colby Parkinson",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 14,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4686468",
+    "name": "Seth McGowan",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 11,
+    "inj": "ACTIVE",
+    "proj": 5.2
+   },
+   {
+    "id": "5220680",
+    "name": "Ted Hurst III",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 27,
+    "inj": "ACTIVE",
+    "proj": 3
+   },
+   {
+    "id": "4887558",
+    "name": "Emanuel Wilson",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 26,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4040655",
+    "name": "Darnell Mooney",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 19,
+    "inj": "ACTIVE",
+    "proj": 5.9
+   },
+   {
+    "id": "4715355",
+    "name": "Darius Cooper",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 21,
+    "inj": "ACTIVE",
+    "proj": 1.5
+   },
+   {
+    "id": "4362238",
+    "name": "Chase Brown",
+    "pos": "RB",
+    "slot": "RB",
+    "pro": 4,
+    "inj": "ACTIVE",
+    "proj": 15.6
+   },
+   {
+    "id": "4262921",
+    "name": "Justin Jefferson",
+    "pos": "WR",
+    "slot": "WR",
+    "pro": 16,
+    "inj": "ACTIVE",
+    "proj": 20
+   },
+   {
+    "id": "4241555",
+    "name": "Elijah Mitchell",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 21,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4040761",
+    "name": "Devin Singletary",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 19,
+    "inj": "ACTIVE",
+    "proj": 3.7
+   },
+   {
+    "id": "4569682",
+    "name": "Audric Estime",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 18,
+    "inj": "ACTIVE",
+    "proj": 4.5
+   }
+  ],
+  "6": [
+   {
+    "id": "4431452",
+    "name": "Drake Maye",
+    "pos": "QB",
+    "slot": "QB",
+    "pro": 17,
+    "inj": "DOUBTFUL",
+    "proj": 0
+   },
+   {
+    "id": "4432665",
+    "name": "Brock Bowers",
+    "pos": "TE",
+    "slot": "TE",
+    "pro": 13,
+    "inj": "QUESTIONABLE",
+    "proj": 18.4
+   },
+   {
+    "id": "4047646",
+    "name": "A.J. Brown",
+    "pos": "WR",
+    "slot": "FLEX",
+    "pro": 17,
+    "inj": "QUESTIONABLE",
+    "proj": 0
+   },
+   {
+    "id": "4432620",
+    "name": "Parker Washington",
+    "pos": "WR",
+    "slot": "WR",
+    "pro": 30,
+    "inj": "ACTIVE",
+    "proj": 15.3
+   },
+   {
+    "id": "4360761",
+    "name": "Michael Wilson",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 22,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "4047365",
+    "name": "Josh Jacobs",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 9,
+    "inj": "OUT",
+    "proj": 0
+   },
+   {
+    "id": "4568490",
+    "name": "RJ Harvey",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 7,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "4371733",
+    "name": "Kenny Gainwell",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 27,
+    "inj": "ACTIVE",
+    "proj": 8.8
+   },
+   {
+    "id": "4426385",
+    "name": "Zach Charbonnet",
+    "pos": "RB",
+    "slot": "RB",
+    "pro": 26,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "15818",
+    "name": "Keenan Allen",
+    "pos": "WR",
+    "slot": "WR",
+    "pro": 25,
+    "inj": "ACTIVE",
+    "proj": 7.1
+   },
+   {
+    "id": "4595342",
+    "name": "Oronde Gadsden",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 24,
+    "inj": "ACTIVE",
+    "proj": 4.1
+   },
+   {
+    "id": "4428850",
+    "name": "Dontayvion Wicks",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 21,
+    "inj": "QUESTIONABLE",
+    "proj": 8.4
+   },
+   {
+    "id": "4427095",
+    "name": "DeMario Douglas",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 17,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4362921",
+    "name": "Tyquan Thornton",
+    "pos": "WR",
+    "slot": "IR",
+    "pro": 12,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "14880",
+    "name": "Kirk Cousins",
+    "pos": "QB",
+    "slot": "BE",
+    "pro": 16,
+    "inj": "ACTIVE",
+    "proj": 17.7
+   },
+   {
+    "id": "3045147",
+    "name": "James Conner",
+    "pos": "RB",
+    "slot": "IR",
+    "pro": 22,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "3045523",
+    "name": "Kendrick Bourne",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 22,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "4682745",
+    "name": "Jaylen Wright",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 15,
+    "inj": "ACTIVE",
+    "proj": 3.4
+   },
+   {
+    "id": "4685247",
+    "name": "Braelon Allen",
+    "pos": "RB",
+    "slot": "RB",
+    "pro": 20,
+    "inj": "ACTIVE",
+    "proj": 7.5
+   },
+   {
+    "id": "4430968",
+    "name": "Kimani Vidal",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 24,
+    "inj": "ACTIVE",
+    "proj": 7.6
+   },
+   {
+    "id": "3051876",
+    "name": "Evan Engram",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 7,
+    "inj": "ACTIVE",
+    "proj": 7.7
+   },
+   {
+    "id": "4597500",
+    "name": "Adonai Mitchell",
+    "pos": "WR",
+    "slot": "FLEX",
+    "pro": 20,
+    "inj": "ACTIVE",
+    "proj": 10.6
+   },
+   {
+    "id": "4572680",
+    "name": "Tucker Kraft",
+    "pos": "TE",
+    "slot": "FLEX",
+    "pro": 9,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4688813",
+    "name": "Josh Downs",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 12,
+    "inj": "ACTIVE",
+    "proj": 9.1
+   },
+   {
+    "id": "3052587",
+    "name": "Baker Mayfield",
+    "pos": "QB",
+    "slot": "BE",
+    "pro": 27,
+    "inj": "QUESTIONABLE",
+    "proj": 14.5
+   }
+  ],
+  "7": [
+   {
+    "id": "4362628",
+    "name": "Ja'Marr Chase",
+    "pos": "WR",
+    "slot": "WR",
+    "pro": 4,
+    "inj": "ACTIVE",
+    "proj": 25.4
+   },
+   {
+    "id": "4379399",
+    "name": "James Cook III",
+    "pos": "RB",
+    "slot": "RB",
+    "pro": 2,
+    "inj": "ACTIVE",
+    "proj": 20.9
+   },
+   {
+    "id": "4685278",
+    "name": "Luther Burden III",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 3,
+    "inj": "ACTIVE",
+    "proj": 15.1
+   },
+   {
+    "id": "4426338",
+    "name": "Bo Nix",
+    "pos": "QB",
+    "slot": "BE",
+    "pro": 7,
+    "inj": "ACTIVE",
+    "proj": 24.8
+   },
+   {
+    "id": "4242355",
+    "name": "Jake Ferguson",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 6,
+    "inj": "OUT",
+    "proj": 0
+   },
+   {
+    "id": "4429025",
+    "name": "Quentin Johnston",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 24,
+    "inj": "ACTIVE",
+    "proj": 6.1
+   },
+   {
+    "id": "4035687",
+    "name": "Michael Pittman Jr.",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 23,
+    "inj": "INJURY_RESERVE",
+    "proj": 5.9
+   },
+   {
+    "id": "3139477",
+    "name": "Patrick Mahomes",
+    "pos": "QB",
+    "slot": "QB",
+    "pro": 12,
+    "inj": "ACTIVE",
+    "proj": 26.4
+   },
+   {
+    "id": "4241416",
+    "name": "Chuba Hubbard",
+    "pos": "RB",
+    "slot": "RB",
+    "pro": 29,
+    "inj": "ACTIVE",
+    "proj": 20
+   },
+   {
+    "id": "4360569",
+    "name": "Jordan Mason",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 16,
+    "inj": "ACTIVE",
+    "proj": 8.6
+   },
+   {
+    "id": "4430834",
+    "name": "Jalen McMillan",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 27,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "4373626",
+    "name": "Tyler Allgeier",
+    "pos": "RB",
+    "slot": "FLEX",
+    "pro": 22,
+    "inj": "ACTIVE",
+    "proj": 7.1
+   },
+   {
+    "id": "4586312",
+    "name": "Jaylin Noel",
+    "pos": "WR",
+    "slot": "IR",
+    "pro": 34,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "4682648",
+    "name": "Malachi Fields",
+    "pos": "WR",
+    "slot": "FLEX",
+    "pro": 19,
+    "inj": "ACTIVE",
+    "proj": 7.5
+   },
+   {
+    "id": "4686422",
+    "name": "Xavier Hutchinson",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 34,
+    "inj": "ACTIVE",
+    "proj": 10.7
+   },
+   {
+    "id": "5083754",
+    "name": "Ryan Flournoy",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 6,
+    "inj": "ACTIVE",
+    "proj": 9.7
+   },
+   {
+    "id": "4259147",
+    "name": "Jake Tonges",
+    "pos": "TE",
+    "slot": "IR",
+    "pro": 25,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "4831959",
+    "name": "Eli Raridon",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 17,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "3929645",
+    "name": "Juwan Johnson",
+    "pos": "TE",
+    "slot": "TE",
+    "pro": 18,
+    "inj": "ACTIVE",
+    "proj": 7.3
+   },
+   {
+    "id": "4890973",
+    "name": "Ashton Jeanty",
+    "pos": "RB",
+    "slot": "FLEX",
+    "pro": 13,
+    "inj": "ACTIVE",
+    "proj": 13.8
+   },
+   {
+    "id": "4432710",
+    "name": "TreVeyon Henderson",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 17,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "4241389",
+    "name": "CeeDee Lamb",
+    "pos": "WR",
+    "slot": "WR",
+    "pro": 6,
+    "inj": "ACTIVE",
+    "proj": 22.5
+   },
+   {
+    "id": "4249836",
+    "name": "Pierre Strong Jr.",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 9,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4430841",
+    "name": "Carson Beck",
+    "pos": "QB",
+    "slot": "BE",
+    "pro": 22,
+    "inj": "ACTIVE",
+    "proj": 7.4
+   },
+   {
+    "id": "3051889",
+    "name": "Laquon Treadwell",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 11,
+    "inj": "ACTIVE",
+    "proj": 7.4
+   }
+  ],
+  "9": [
+   {
+    "id": "4595348",
+    "name": "Malik Nabers",
+    "pos": "WR",
+    "slot": "WR",
+    "pro": 19,
+    "inj": "ACTIVE",
+    "proj": 16.2
+   },
+   {
+    "id": "4723086",
+    "name": "Colston Loveland",
+    "pos": "TE",
+    "slot": "TE",
+    "pro": 3,
+    "inj": "ACTIVE",
+    "proj": 15
+   },
+   {
+    "id": "4567750",
+    "name": "Emeka Egbuka",
+    "pos": "WR",
+    "slot": "WR",
+    "pro": 27,
+    "inj": "ACTIVE",
+    "proj": 11.1
+   },
+   {
+    "id": "4685512",
+    "name": "Jadarian Price",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 26,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4431611",
+    "name": "Caleb Williams",
+    "pos": "QB",
+    "slot": "QB",
+    "pro": 3,
+    "inj": "ACTIVE",
+    "proj": 22
+   },
+   {
+    "id": "4360078",
+    "name": "Alec Pierce",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 11,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "4710714",
+    "name": "De'Zhaun Stribling",
+    "pos": "WR",
+    "slot": "IR",
+    "pro": 25,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "4429096",
+    "name": "Blake Corum",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 14,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4361432",
+    "name": "Romeo Doubs",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 17,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "4429013",
+    "name": "Tank Bigsby",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 21,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "4832955",
+    "name": "Emmett Johnson",
+    "pos": "RB",
+    "slot": "RB",
+    "pro": 12,
+    "inj": "ACTIVE",
+    "proj": 9.3
+   },
+   {
+    "id": "4600981",
+    "name": "Pat Bryant",
+    "pos": "WR",
+    "slot": "FLEX",
+    "pro": 7,
+    "inj": "ACTIVE",
+    "proj": 8
+   },
+   {
+    "id": "4431574",
+    "name": "Eli Stowers",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 21,
+    "inj": "ACTIVE",
+    "proj": 1.7
+   },
+   {
+    "id": "3116406",
+    "name": "Tyreek Hill",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 0,
+    "inj": "QUESTIONABLE",
+    "proj": null
+   },
+   {
+    "id": "4912274",
+    "name": "Sione Vaki",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 8,
+    "inj": "ACTIVE",
+    "proj": 3.8
+   },
+   {
+    "id": "3054850",
+    "name": "Alvin Kamara",
+    "pos": "RB",
+    "slot": "RB",
+    "pro": 18,
+    "inj": "ACTIVE",
+    "proj": 8.1
+   },
+   {
+    "id": "4870808",
+    "name": "Jeremiyah Love",
+    "pos": "RB",
+    "slot": "IR",
+    "pro": 22,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "4689114",
+    "name": "Jaxson Dart",
+    "pos": "QB",
+    "slot": "BE",
+    "pro": 19,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "4431431",
+    "name": "Corey Kiner",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 17,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4432708",
+    "name": "Marvin Harrison Jr.",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 34,
+    "inj": "QUESTIONABLE",
+    "proj": 0
+   },
+   {
+    "id": "4603186",
+    "name": "Jack Bech",
+    "pos": "WR",
+    "slot": "FLEX",
+    "pro": 13,
+    "inj": "ACTIVE",
+    "proj": 3.6
+   },
+   {
+    "id": "4360797",
+    "name": "Tutu Atwell",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 14,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4360967",
+    "name": "Brevyn Spann-Ford",
+    "pos": "TE",
+    "slot": "FLEX",
+    "pro": 6,
+    "inj": "ACTIVE",
+    "proj": 6.8
+   },
+   {
+    "id": "4688380",
+    "name": "Cam Ward",
+    "pos": "QB",
+    "slot": "BE",
+    "pro": 10,
+    "inj": "ACTIVE",
+    "proj": 19.6
+   },
+   {
+    "id": "4433959",
+    "name": "Ben Yurosek",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 16,
+    "inj": "ACTIVE",
+    "proj": 2.1
+   }
+  ],
+  "10": [
+   {
+    "id": "3929630",
+    "name": "Saquon Barkley",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 21,
+    "inj": "ACTIVE",
+    "proj": 12
+   },
+   {
+    "id": "4429160",
+    "name": "De'Von Achane",
+    "pos": "RB",
+    "slot": "IR",
+    "pro": 15,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "3916387",
+    "name": "Lamar Jackson",
+    "pos": "QB",
+    "slot": "IR",
+    "pro": 33,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "4430737",
+    "name": "Kyren Williams",
+    "pos": "RB",
+    "slot": "RB",
+    "pro": 14,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4372016",
+    "name": "Jaylen Waddle",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 7,
+    "inj": "QUESTIONABLE",
+    "proj": 12.5
+   },
+   {
+    "id": "4360248",
+    "name": "Kyle Pitts Sr.",
+    "pos": "TE",
+    "slot": "TE",
+    "pro": 1,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4248528",
+    "name": "Christian Watson",
+    "pos": "WR",
+    "slot": "WR",
+    "pro": 9,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4038815",
+    "name": "Rico Dowdle",
+    "pos": "RB",
+    "slot": "RB",
+    "pro": 23,
+    "inj": "ACTIVE",
+    "proj": 9.1
+   },
+   {
+    "id": "3116165",
+    "name": "Chris Godwin Jr.",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 27,
+    "inj": "ACTIVE",
+    "proj": 7
+   },
+   {
+    "id": "3917792",
+    "name": "Daniel Jones",
+    "pos": "QB",
+    "slot": "BE",
+    "pro": 11,
+    "inj": "ACTIVE",
+    "proj": 12.1
+   },
+   {
+    "id": "3117256",
+    "name": "Dalton Schultz",
+    "pos": "TE",
+    "slot": "FLEX",
+    "pro": 34,
+    "inj": "ACTIVE",
+    "proj": 10.3
+   },
+   {
+    "id": "4569559",
+    "name": "Devaughn Vele",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 18,
+    "inj": "ACTIVE",
+    "proj": 6.1
+   },
+   {
+    "id": "4361409",
+    "name": "Jahan Dotson",
+    "pos": "WR",
+    "slot": "FLEX",
+    "pro": 1,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4430802",
+    "name": "Darnell Washington",
+    "pos": "TE",
+    "slot": "FLEX",
+    "pro": 23,
+    "inj": "ACTIVE",
+    "proj": 7.1
+   },
+   {
+    "id": "4429835",
+    "name": "George Holani",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 26,
+    "inj": "QUESTIONABLE",
+    "proj": 0
+   },
+   {
+    "id": "4685307",
+    "name": "Kevin Coleman Jr.",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 15,
+    "inj": "ACTIVE",
+    "proj": 4.9
+   },
+   {
+    "id": "3895856",
+    "name": "Christian Kirk",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 25,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "4431487",
+    "name": "Savion Williams",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 9,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4431466",
+    "name": "Jordan Watkins",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 25,
+    "inj": "ACTIVE",
+    "proj": 0.5
+   },
+   {
+    "id": "4569587",
+    "name": "Wan'Dale Robinson",
+    "pos": "WR",
+    "slot": "WR",
+    "pro": 10,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "4426553",
+    "name": "Davis Allen",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 14,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4433970",
+    "name": "J.J. McCarthy",
+    "pos": "QB",
+    "slot": "QB",
+    "pro": 19,
+    "inj": "ACTIVE",
+    "proj": 15.4
+   },
+   {
+    "id": "3930066",
+    "name": "Van Jefferson",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 28,
+    "inj": "ACTIVE",
+    "proj": 3.7
+   },
+   {
+    "id": "4241263",
+    "name": "Charlie Kolar",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 24,
+    "inj": "ACTIVE",
+    "proj": 4.8
+   },
+   {
+    "id": "4569371",
+    "name": "Isaiah Williams",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 20,
+    "inj": "ACTIVE",
+    "proj": 1
+   }
+  ],
+  "12": [
+   {
+    "id": "4430807",
+    "name": "Bijan Robinson",
+    "pos": "RB",
+    "slot": "RB",
+    "pro": 1,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "3117251",
+    "name": "Christian McCaffrey",
+    "pos": "RB",
+    "slot": "RB",
+    "pro": 25,
+    "inj": "ACTIVE",
+    "proj": 19.8
+   },
+   {
+    "id": "4426502",
+    "name": "Drake London",
+    "pos": "WR",
+    "slot": "WR",
+    "pro": 1,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4685472",
+    "name": "Tetairoa McMillan",
+    "pos": "WR",
+    "slot": "WR",
+    "pro": 29,
+    "inj": "ACTIVE",
+    "proj": 13.9
+   },
+   {
+    "id": "3121422",
+    "name": "Terry McLaurin",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 28,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "4429615",
+    "name": "Zay Flowers",
+    "pos": "WR",
+    "slot": "FLEX",
+    "pro": 33,
+    "inj": "ACTIVE",
+    "proj": 14.1
+   },
+   {
+    "id": "4361741",
+    "name": "Brock Purdy",
+    "pos": "QB",
+    "slot": "QB",
+    "pro": 25,
+    "inj": "ACTIVE",
+    "proj": 20.3
+   },
+   {
+    "id": "4432773",
+    "name": "Brian Thomas Jr.",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 30,
+    "inj": "ACTIVE",
+    "proj": 5.7
+   },
+   {
+    "id": "4575131",
+    "name": "Jacory Croskey-Merritt",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 28,
+    "inj": "INJURY_RESERVE",
+    "proj": 7.5
+   },
+   {
+    "id": "4385690",
+    "name": "Dalton Kincaid",
+    "pos": "TE",
+    "slot": "TE",
+    "pro": 2,
+    "inj": "ACTIVE",
+    "proj": 10.2
+   },
+   {
+    "id": "4870653",
+    "name": "KC Concepcion",
+    "pos": "WR",
+    "slot": "FLEX",
+    "pro": 5,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "3046779",
+    "name": "Jared Goff",
+    "pos": "QB",
+    "slot": "BE",
+    "pro": 8,
+    "inj": "ACTIVE",
+    "proj": 17.7
+   },
+   {
+    "id": "4695883",
+    "name": "Jalen Coker",
+    "pos": "WR",
+    "slot": "FLEX",
+    "pro": 29,
+    "inj": "ACTIVE",
+    "proj": 8.8
+   },
+   {
+    "id": "4696044",
+    "name": "Kaelon Black",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 25,
+    "inj": "ACTIVE",
+    "proj": 6.4
+   },
+   {
+    "id": "4869961",
+    "name": "Chris Bell",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 15,
+    "inj": "QUESTIONABLE",
+    "proj": 5.2
+   },
+   {
+    "id": "5081432",
+    "name": "Antonio Williams",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 28,
+    "inj": "ACTIVE",
+    "proj": 9
+   },
+   {
+    "id": "4243331",
+    "name": "Cade Otton",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 27,
+    "inj": "ACTIVE",
+    "proj": 9
+   },
+   {
+    "id": "2576980",
+    "name": "Marcus Mariota",
+    "pos": "QB",
+    "slot": "BE",
+    "pro": 28,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4635008",
+    "name": "Keon Coleman",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 2,
+    "inj": "ACTIVE",
+    "proj": 7.6
+   },
+   {
+    "id": "4686472",
+    "name": "Marvin Mims Jr.",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 7,
+    "inj": "ACTIVE",
+    "proj": 5.2
+   },
+   {
+    "id": "4048228",
+    "name": "John Bates",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 28,
+    "inj": "ACTIVE",
+    "proj": 0.7
+   },
+   {
+    "id": "5091739",
+    "name": "Chris Brazzell II",
+    "pos": "WR",
+    "slot": "IR",
+    "pro": 29,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "4361577",
+    "name": "Dyami Brown",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 28,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "4429676",
+    "name": "Tyler Goodson",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 6,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   }
+  ],
+  "13": [
+   {
+    "id": "4040715",
+    "name": "Jalen Hurts",
+    "pos": "QB",
+    "slot": "IR",
+    "pro": 21,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "3043078",
+    "name": "Derrick Henry",
+    "pos": "RB",
+    "slot": "RB",
+    "pro": 33,
+    "inj": "ACTIVE",
+    "proj": 14.5
+   },
+   {
+    "id": "4431459",
+    "name": "Tyler Warren",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 11,
+    "inj": "ACTIVE",
+    "proj": 11
+   },
+   {
+    "id": "4239996",
+    "name": "Travis Etienne Jr.",
+    "pos": "RB",
+    "slot": "FLEX",
+    "pro": 18,
+    "inj": "ACTIVE",
+    "proj": 11.2
+   },
+   {
+    "id": "4239993",
+    "name": "Tee Higgins",
+    "pos": "WR",
+    "slot": "WR",
+    "pro": 4,
+    "inj": "ACTIVE",
+    "proj": 16.8
+   },
+   {
+    "id": "4259545",
+    "name": "D'Andre Swift",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 3,
+    "inj": "ACTIVE",
+    "proj": 16.9
+   },
+   {
+    "id": "4047650",
+    "name": "DK Metcalf",
+    "pos": "WR",
+    "slot": "WR",
+    "pro": 23,
+    "inj": "ACTIVE",
+    "proj": 11.1
+   },
+   {
+    "id": "3916148",
+    "name": "Tony Pollard",
+    "pos": "RB",
+    "slot": "RB",
+    "pro": 10,
+    "inj": "ACTIVE",
+    "proj": 18.4
+   },
+   {
+    "id": "15847",
+    "name": "Travis Kelce",
+    "pos": "TE",
+    "slot": "TE",
+    "pro": 12,
+    "inj": "ACTIVE",
+    "proj": 13.1
+   },
+   {
+    "id": "3126486",
+    "name": "Deebo Samuel Sr.",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 25,
+    "inj": "ACTIVE",
+    "proj": 10.3
+   },
+   {
+    "id": "4036378",
+    "name": "Jordan Love",
+    "pos": "QB",
+    "slot": "BE",
+    "pro": 9,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4241474",
+    "name": "Brian Robinson Jr.",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 1,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "3116164",
+    "name": "Mike Gesicki",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 4,
+    "inj": "ACTIVE",
+    "proj": 8.6
+   },
+   {
+    "id": "3930086",
+    "name": "Dawson Knox",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 2,
+    "inj": "ACTIVE",
+    "proj": 5.5
+   },
+   {
+    "id": "4366031",
+    "name": "Tank Dell",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 34,
+    "inj": "ACTIVE",
+    "proj": 10.4
+   },
+   {
+    "id": "4036131",
+    "name": "Noah Fant",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 18,
+    "inj": "ACTIVE",
+    "proj": 3.5
+   },
+   {
+    "id": "4427366",
+    "name": "Breece Hall",
+    "pos": "RB",
+    "slot": "FLEX",
+    "pro": 20,
+    "inj": "ACTIVE",
+    "proj": 12.9
+   },
+   {
+    "id": "4241478",
+    "name": "DeVonta Smith",
+    "pos": "WR",
+    "slot": "FLEX",
+    "pro": 21,
+    "inj": "QUESTIONABLE",
+    "proj": 13
+   },
+   {
+    "id": "4372780",
+    "name": "Tommy Tremble",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 29,
+    "inj": "ACTIVE",
+    "proj": 8.2
+   },
+   {
+    "id": "15864",
+    "name": "Geno Smith",
+    "pos": "QB",
+    "slot": "QB",
+    "pro": 20,
+    "inj": "QUESTIONABLE",
+    "proj": 16.6
+   },
+   {
+    "id": "4608810",
+    "name": "Tez Johnson",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 27,
+    "inj": "ACTIVE",
+    "proj": 6.8
+   },
+   {
+    "id": "3068267",
+    "name": "Austin Ekeler",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 28,
+    "inj": "ACTIVE",
+    "proj": 4.2
+   },
+   {
+    "id": "3043116",
+    "name": "Demarcus Robinson",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 25,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4431268",
+    "name": "Chimere Dike",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 10,
+    "inj": "ACTIVE",
+    "proj": 7.3
+   }
+  ],
+  "14": [
+   {
+    "id": "4426515",
+    "name": "Puka Nacua",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 14,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "4426348",
+    "name": "Jayden Daniels",
+    "pos": "QB",
+    "slot": "BE",
+    "pro": 28,
+    "inj": "ACTIVE",
+    "proj": 22.6
+   },
+   {
+    "id": "4696981",
+    "name": "Cam Skattebo",
+    "pos": "RB",
+    "slot": "RB",
+    "pro": 19,
+    "inj": "ACTIVE",
+    "proj": 14.5
+   },
+   {
+    "id": "4426354",
+    "name": "George Pickens",
+    "pos": "WR",
+    "slot": "WR",
+    "pro": 6,
+    "inj": "ACTIVE",
+    "proj": 15.7
+   },
+   {
+    "id": "12483",
+    "name": "Matthew Stafford",
+    "pos": "QB",
+    "slot": "BE",
+    "pro": 14,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4430027",
+    "name": "Sam LaPorta",
+    "pos": "TE",
+    "slot": "TE",
+    "pro": 8,
+    "inj": "ACTIVE",
+    "proj": 11.3
+   },
+   {
+    "id": "4678008",
+    "name": "Jonathon Brooks",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 29,
+    "inj": "INJURY_RESERVE",
+    "proj": 4.3
+   },
+   {
+    "id": "2976212",
+    "name": "Stefon Diggs",
+    "pos": "WR",
+    "slot": "WR",
+    "pro": 28,
+    "inj": "ACTIVE",
+    "proj": 12.9
+   },
+   {
+    "id": "3916433",
+    "name": "Jakobi Meyers",
+    "pos": "WR",
+    "slot": "FLEX",
+    "pro": 30,
+    "inj": "ACTIVE",
+    "proj": 10.9
+   },
+   {
+    "id": "4697815",
+    "name": "Rachaad White",
+    "pos": "RB",
+    "slot": "RB",
+    "pro": 28,
+    "inj": "ACTIVE",
+    "proj": 7.7
+   },
+   {
+    "id": "4570037",
+    "name": "Terrance Ferguson",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 14,
+    "inj": "INJURY_RESERVE",
+    "proj": 0
+   },
+   {
+    "id": "4432577",
+    "name": "C.J. Stroud",
+    "pos": "QB",
+    "slot": "QB",
+    "pro": 34,
+    "inj": "ACTIVE",
+    "proj": 27
+   },
+   {
+    "id": "5081397",
+    "name": "Dylan Sampson",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 5,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4382466",
+    "name": "Jalen Nailor",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 13,
+    "inj": "ACTIVE",
+    "proj": 6.4
+   },
+   {
+    "id": "3915411",
+    "name": "Ty Johnson",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 2,
+    "inj": "ACTIVE",
+    "proj": 5
+   },
+   {
+    "id": "4431588",
+    "name": "Ja'Tavion Sanders",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 29,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4695404",
+    "name": "Isaiah Davis",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 20,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4362478",
+    "name": "Emari Demercado",
+    "pos": "RB",
+    "slot": "FLEX",
+    "pro": 34,
+    "inj": "ACTIVE",
+    "proj": 8.2
+   },
+   {
+    "id": "4597703",
+    "name": "Tory Horton",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 26,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "4819231",
+    "name": "Kaleb Johnson",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 9,
+    "inj": "ACTIVE",
+    "proj": 0
+   },
+   {
+    "id": "3116385",
+    "name": "Joe Mixon",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 0,
+    "inj": "QUESTIONABLE",
+    "proj": null
+   },
+   {
+    "id": "4612826",
+    "name": "Ladd McConkey",
+    "pos": "WR",
+    "slot": "FLEX",
+    "pro": 24,
+    "inj": "QUESTIONABLE",
+    "proj": 10.7
+   },
+   {
+    "id": "4685702",
+    "name": "Quinshon Judkins",
+    "pos": "RB",
+    "slot": "BE",
+    "pro": 5,
+    "inj": "ACTIVE",
+    "proj": 0
+   }
+  ]
+ },
+ "matchups": [
+  {
+   "home": 7,
+   "away": 4
+  },
+  {
+   "home": 6,
+   "away": 13
+  },
+  {
+   "home": 10,
+   "away": 2
+  },
+  {
+   "home": 14,
+   "away": 1
+  },
+  {
+   "home": 9,
+   "away": 5
+  },
+  {
+   "home": 3,
+   "away": 12
+  }
+ ],
+ "games": {
+  "2": {
+   "date": "2026-11-22T18:00Z",
+   "state": "pre",
+   "abbr": "BUF",
+   "opp": "MIA",
+   "home": true,
+   "implied": 31
+  },
+  "3": {
+   "date": "2026-11-22T18:00Z",
+   "state": "pre",
+   "abbr": "CHI",
+   "opp": "NO",
+   "home": true,
+   "implied": 30
+  },
+  "4": {
+   "date": "2026-11-24T01:15Z",
+   "state": "pre",
+   "abbr": "CIN",
+   "opp": "WSH",
+   "home": false,
+   "implied": 30
+  },
+  "6": {
+   "date": "2026-11-22T18:00Z",
+   "state": "pre",
+   "abbr": "DAL",
+   "opp": "TEN",
+   "home": true,
+   "implied": 31.5
+  },
+  "7": {
+   "date": "2026-11-22T21:25Z",
+   "state": "pre",
+   "abbr": "DEN",
+   "opp": "LV",
+   "home": true,
+   "implied": 25.3
+  },
+  "8": {
+   "date": "2026-11-22T18:00Z",
+   "state": "pre",
+   "abbr": "DET",
+   "opp": "TB",
+   "home": true,
+   "implied": 25.8
+  },
+  "10": {
+   "date": "2026-11-22T18:00Z",
+   "state": "pre",
+   "abbr": "TEN",
+   "opp": "DAL",
+   "home": false,
+   "implied": 23
+  },
+  "11": {
+   "date": "2026-11-20T01:15Z",
+   "state": "pre",
+   "abbr": "IND",
+   "opp": "HOU",
+   "home": false,
+   "implied": 16
+  },
+  "12": {
+   "date": "2026-11-22T18:00Z",
+   "state": "pre",
+   "abbr": "KC",
+   "opp": "ARI",
+   "home": true,
+   "implied": 29
+  },
+  "13": {
+   "date": "2026-11-22T21:25Z",
+   "state": "pre",
+   "abbr": "LV",
+   "opp": "DEN",
+   "home": false,
+   "implied": 15.3
+  },
+  "15": {
+   "date": "2026-11-22T18:00Z",
+   "state": "pre",
+   "abbr": "MIA",
+   "opp": "BUF",
+   "home": false,
+   "implied": 14.5
+  },
+  "16": {
+   "date": "2026-11-23T01:20Z",
+   "state": "pre",
+   "abbr": "MIN",
+   "opp": "SF",
+   "home": false,
+   "implied": 21.3
+  },
+  "18": {
+   "date": "2026-11-22T18:00Z",
+   "state": "pre",
+   "abbr": "NO",
+   "opp": "CHI",
+   "home": false,
+   "implied": 18.5
+  },
+  "19": {
+   "date": "2026-11-22T21:25Z",
+   "state": "pre",
+   "abbr": "NYG",
+   "opp": "JAX",
+   "home": true,
+   "implied": 20.3
+  },
+  "20": {
+   "date": "2026-11-22T21:05Z",
+   "state": "pre",
+   "abbr": "NYJ",
+   "opp": "LAC",
+   "home": false,
+   "implied": 19
+  },
+  "21": {
+   "date": "2026-11-22T18:00Z",
+   "state": "pre",
+   "abbr": "PHI",
+   "opp": "PIT",
+   "home": true,
+   "implied": 17
+  },
+  "22": {
+   "date": "2026-11-22T18:00Z",
+   "state": "pre",
+   "abbr": "ARI",
+   "opp": "KC",
+   "home": false,
+   "implied": 12.5
+  },
+  "23": {
+   "date": "2026-11-22T18:00Z",
+   "state": "pre",
+   "abbr": "PIT",
+   "opp": "PHI",
+   "home": false,
+   "implied": 21.5
+  },
+  "24": {
+   "date": "2026-11-22T21:05Z",
+   "state": "pre",
+   "abbr": "LAC",
+   "opp": "NYJ",
+   "home": true,
+   "implied": 22.5
+  },
+  "25": {
+   "date": "2026-11-23T01:20Z",
+   "state": "pre",
+   "abbr": "SF",
+   "opp": "MIN",
+   "home": true,
+   "implied": 24.3
+  },
+  "27": {
+   "date": "2026-11-22T18:00Z",
+   "state": "pre",
+   "abbr": "TB",
+   "opp": "DET",
+   "home": false,
+   "implied": 18.8
+  },
+  "28": {
+   "date": "2026-11-24T01:15Z",
+   "state": "pre",
+   "abbr": "WSH",
+   "opp": "CIN",
+   "home": true,
+   "implied": 23.5
+  },
+  "29": {
+   "date": "2026-11-22T18:00Z",
+   "state": "pre",
+   "abbr": "CAR",
+   "opp": "BAL",
+   "home": true,
+   "implied": 23.5
+  },
+  "30": {
+   "date": "2026-11-22T21:25Z",
+   "state": "pre",
+   "abbr": "JAX",
+   "opp": "NYG",
+   "home": false,
+   "implied": 26.3
+  },
+  "33": {
+   "date": "2026-11-22T18:00Z",
+   "state": "pre",
+   "abbr": "BAL",
+   "opp": "CAR",
+   "home": false,
+   "implied": 21
+  },
+  "34": {
+   "date": "2026-11-20T01:15Z",
+   "state": "pre",
+   "abbr": "HOU",
+   "opp": "IND",
+   "home": true,
+   "implied": 28.5
+  }
+ }
+}
