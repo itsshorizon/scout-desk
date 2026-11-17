@@ -1,0 +1,61 @@
+name: Watch the league
+
+# The watcher: no AI, just fetch, compare and summarize. Times are UTC.
+# Eastern is UTC-5 until DST starts March 8, 2027; shift these one hour earlier then.
+#
+# Runs per week: hourly 8 AM to midnight ET every day (112), every 15 minutes
+# Sunday 11 AM to midnight ET (about 36 more), and every 15 minutes during
+# Thursday and Monday night games (about 30 more). About 180 runs a week,
+# roughly 800 of the 2,000 free private-repo Actions minutes a month.
+on:
+  schedule:
+    - cron: '0 13-23 * * *'      # hourly, 8 AM to 6 PM ET
+    - cron: '0 0-4 * * *'        # hourly, 7 PM to 11 PM ET
+    - cron: '15,30,45 16-23 * * 0'  # Sunday 11:15 AM to 6:45 PM ET, every 15 min
+    - cron: '15,30,45 0-4 * * 1'    # Sunday night game
+    - cron: '15,30,45 0-4 * * 5'    # Thursday night game
+    - cron: '15,30,45 0-4 * * 2'    # Monday night game
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v5
+
+      # The Dynasty Companion app, read-only: its data files and math engines.
+      - uses: actions/checkout@v5
+        with:
+          repository: itsshorizon/woodson-dynasty-companion
+          path: app
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Tests
+        run: node --test test/*.test.js
+
+      - name: Watch
+        env:
+          ESPN_S2: ${{ secrets.ESPN_S2 }}
+          SWID: ${{ secrets.SWID }}
+        run: node watcher/run.js
+
+      - name: Save state
+        run: |
+          git config user.name "scout-desk"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "Watch $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do git push && exit 0; git pull --rebase; done
+          exit 1

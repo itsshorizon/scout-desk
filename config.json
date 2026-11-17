@@ -1,0 +1,21 @@
+{
+  "about": "Settings for Austin's private scout desk. The watcher reads this on every run.",
+  "leagueId": "196674771",
+  "season": 2026,
+  "myTeamName": "Toe Guano",
+  "myTeamId": 1,
+  "appRepo": "itsshorizon/woodson-dynasty-companion",
+  "teMultiplier": 1.5,
+  "defaultSlots": { "QB": 1, "RB": 2, "WR": 2, "TE": 1, "FLEX": 3 },
+  "regularSeasonWeeks": 14,
+  "thresholds": {
+    "valueMovePct": 0.05,
+    "valueMoveMinDv": 300,
+    "swapGainPts": 2,
+    "addGainPpg": 1.0,
+    "stashDv": 1200,
+    "trendingAdds": 300,
+    "eventsKeepDays": 14
+  },
+  "limits": { "waiverCandidates": 8, "stashCandidates": 5, "dropCandidates": 4, "eventsPerDigest": 15 }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "scout-desk",
+  "private": true,
+  "description": "Austin's private scouting desk for the Woodson dynasty league",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "watch": "node watcher/run.js"
+  },
+  "engines": { "node": ">=20" }
+}
