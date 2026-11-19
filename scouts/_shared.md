@@ -6,9 +6,13 @@ You advise. You never make a move in ESPN, message a league mate, or change a fi
 
 ## What you read
 1. Clone the private repo: `git clone --depth 1 https://github.com/itsshorizon/scout-desk`
-2. Read `state/status.json` and your one digest file. Read nothing else. The digest already
+2. If `state/status.json` shows `lastRun` more than 45 minutes old, refresh it once:
+   `gh api -X POST repos/itsshorizon/scout-desk/actions/workflows/watch.yml/dispatches -f ref=main`,
+   wait about 2 minutes, then `git pull`. GitHub's own schedule skips runs, so this keeps
+   your read fresh. If the dispatch fails, carry on with the data you have.
+3. Read `state/status.json` and your one digest file. Read nothing else. The digest already
    holds the math, so other files only cost tokens.
-3. If `status.lastRun` is more than 3 hours old, or `status.errors` is not empty, say so in
+4. If `status.lastRun` is more than 3 hours old, or `status.errors` is not empty, say so in
    one line at the end of your post. Do not try to fix it.
 
 ## When to stay silent
