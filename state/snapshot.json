@@ -1,5 +1,5 @@
 {
- "at": "2026-11-19T11:25:32.565Z",
+ "at": "2026-11-19T21:22:09.608Z",
  "myTeamId": 1,
  "week": 11,
  "slots": {
@@ -171,10 +171,10 @@
     "id": "4567048",
     "name": "Kenneth Walker III",
     "pos": "RB",
-    "slot": "RB",
+    "slot": "BE",
     "pro": 12,
     "inj": "QUESTIONABLE",
-    "proj": 25.7
+    "proj": 0
    },
    {
     "id": "4361370",
@@ -207,7 +207,7 @@
     "id": "4431299",
     "name": "Rome Odunze",
     "pos": "WR",
-    "slot": "BE",
+    "slot": "FLEX",
     "pro": 3,
     "inj": "ACTIVE",
     "proj": 11.5
@@ -243,7 +243,7 @@
     "id": "4702555",
     "name": "Jonah Coleman",
     "pos": "RB",
-    "slot": "FLEX",
+    "slot": "RB",
     "pro": 7,
     "inj": "ACTIVE",
     "proj": 19.4
@@ -282,7 +282,7 @@
     "slot": "BE",
     "pro": 29,
     "inj": "QUESTIONABLE",
-    "proj": 9.9
+    "proj": 9.8
    },
    {
     "id": "8439",
@@ -419,7 +419,7 @@
     "slot": "TE",
     "pro": 25,
     "inj": "ACTIVE",
-    "proj": 15.4
+    "proj": 16.9
    },
    {
     "id": "4569173",
@@ -446,7 +446,7 @@
     "slot": "WR",
     "pro": 12,
     "inj": "ACTIVE",
-    "proj": 7
+    "proj": 7.7
    },
    {
     "id": "4362249",
@@ -482,7 +482,7 @@
     "slot": "BE",
     "pro": 24,
     "inj": "ACTIVE",
-    "proj": 6.9
+    "proj": 6.6
    },
    {
     "id": "3925357",
@@ -655,7 +655,7 @@
     "slot": "WR",
     "pro": 25,
     "inj": "QUESTIONABLE",
-    "proj": 12.1
+    "proj": 0
    },
    {
     "id": "4429059",
@@ -1055,7 +1055,7 @@
     "slot": "RB",
     "pro": 24,
     "inj": "ACTIVE",
-    "proj": 12.6
+    "proj": 13.5
    },
    {
     "id": "4360310",
@@ -1336,7 +1336,7 @@
     "slot": "WR",
     "pro": 25,
     "inj": "ACTIVE",
-    "proj": 7.1
+    "proj": 9.3
    },
    {
     "id": "4595342",
@@ -1426,7 +1426,7 @@
     "slot": "BE",
     "pro": 24,
     "inj": "ACTIVE",
-    "proj": 7.6
+    "proj": 7
    },
    {
     "id": "3051876",
@@ -1545,7 +1545,7 @@
     "slot": "QB",
     "pro": 12,
     "inj": "ACTIVE",
-    "proj": 26.4
+    "proj": 26.7
    },
    {
     "id": "4241416",
@@ -1799,7 +1799,7 @@
     "slot": "RB",
     "pro": 12,
     "inj": "ACTIVE",
-    "proj": 9.3
+    "proj": 20.2
    },
    {
     "id": "4600981",
@@ -1925,7 +1925,7 @@
     "slot": "BE",
     "pro": 12,
     "inj": "ACTIVE",
-    "proj": 2.5
+    "proj": 4.3
    }
   ],
   "10": [
@@ -2098,7 +2098,7 @@
     "slot": "BE",
     "pro": 25,
     "inj": "ACTIVE",
-    "proj": 0.5
+    "proj": 6.7
    },
    {
     "id": "4569587",
@@ -2280,7 +2280,7 @@
     "slot": "RB",
     "pro": 25,
     "inj": "ACTIVE",
-    "proj": 6.4
+    "proj": 6.5
    },
    {
     "id": "4869961",
@@ -2399,7 +2399,7 @@
     "slot": "BE",
     "pro": 11,
     "inj": "ACTIVE",
-    "proj": 10.6
+    "proj": 10.7
    },
    {
     "id": "4239996",
@@ -2453,7 +2453,7 @@
     "slot": "TE",
     "pro": 12,
     "inj": "ACTIVE",
-    "proj": 13.1
+    "proj": 13.2
    },
    {
     "id": "3126486",
@@ -2462,7 +2462,7 @@
     "slot": "BE",
     "pro": 25,
     "inj": "ACTIVE",
-    "proj": 10.3
+    "proj": 11
    },
    {
     "id": "4036378",
@@ -2570,7 +2570,7 @@
     "slot": "BE",
     "pro": 25,
     "inj": "ACTIVE",
-    "proj": 0
+    "proj": 1.7
    },
    {
     "id": "4431268",
@@ -2788,7 +2788,7 @@
     "slot": "FLEX",
     "pro": 24,
     "inj": "QUESTIONABLE",
-    "proj": 10.7
+    "proj": 10.8
    },
    {
     "id": "4685702",
@@ -2834,7 +2834,7 @@
    "abbr": "BUF",
    "opp": "MIA",
    "home": true,
-   "implied": 31
+   "implied": 30.5
   },
   "3": {
    "date": "2026-11-22T18:00Z",
@@ -2850,7 +2850,7 @@
    "abbr": "CIN",
    "opp": "WSH",
    "home": false,
-   "implied": 30.5
+   "implied": 29.8
   },
   "6": {
    "date": "2026-11-22T18:00Z",
@@ -2858,7 +2858,7 @@
    "abbr": "DAL",
    "opp": "TEN",
    "home": true,
-   "implied": 31.5
+   "implied": 32
   },
   "7": {
    "date": "2026-11-22T21:25Z",
@@ -2874,7 +2874,7 @@
    "abbr": "DET",
    "opp": "TB",
    "home": true,
-   "implied": 25.3
+   "implied": 25.8
   },
   "10": {
    "date": "2026-11-22T18:00Z",
@@ -2882,7 +2882,7 @@
    "abbr": "TEN",
    "opp": "DAL",
    "home": false,
-   "implied": 23
+   "implied": 23.5
   },
   "11": {
    "date": "2026-11-20T01:15Z",
@@ -2890,7 +2890,7 @@
    "abbr": "IND",
    "opp": "HOU",
    "home": false,
-   "implied": 15.5
+   "implied": 16
   },
   "12": {
    "date": "2026-11-22T18:00Z",
@@ -2914,7 +2914,7 @@
    "abbr": "MIA",
    "opp": "BUF",
    "home": false,
-   "implied": 14.5
+   "implied": 14
   },
   "16": {
    "date": "2026-11-23T01:20Z",
@@ -2994,7 +2994,7 @@
    "abbr": "TB",
    "opp": "DET",
    "home": false,
-   "implied": 18.3
+   "implied": 19.8
   },
   "28": {
    "date": "2026-11-24T01:15Z",
@@ -3002,7 +3002,7 @@
    "abbr": "WSH",
    "opp": "CIN",
    "home": true,
-   "implied": 24
+   "implied": 23.8
   },
   "29": {
    "date": "2026-11-22T18:00Z",
@@ -3010,7 +3010,7 @@
    "abbr": "CAR",
    "opp": "BAL",
    "home": true,
-   "implied": 23
+   "implied": 23.3
   },
   "30": {
    "date": "2026-11-22T21:25Z",
@@ -3026,7 +3026,7 @@
    "abbr": "BAL",
    "opp": "CAR",
    "home": false,
-   "implied": 20.5
+   "implied": 20.3
   },
   "34": {
    "date": "2026-11-20T01:15Z",
@@ -3034,7 +3034,7 @@
    "abbr": "HOU",
    "opp": "IND",
    "home": true,
-   "implied": 28
+   "implied": 28.5
   }
  }
 }

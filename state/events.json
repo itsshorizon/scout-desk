@@ -486,5 +486,165 @@
   "mine": true,
   "pct1": 0.053,
   "pct7": 0.12
+ },
+ {
+  "key": "news:8439:2026-11-19T14:36:20Z",
+  "at": "2026-11-19T21:22:09.608Z",
+  "type": "news",
+  "id": "8439",
+  "name": "Aaron Rodgers",
+  "mine": true,
+  "headline": "Fantasy football free agent pickups: Replacing Drake Maye? Trust in Tyson?",
+  "when": "2026-11-19T14:36:20Z"
+ },
+ {
+  "key": "news:2576925:2026-11-18T20:11:10Z",
+  "at": "2026-11-19T21:22:09.608Z",
+  "type": "news",
+  "id": "2576925",
+  "name": "Darren Waller",
+  "mine": true,
+  "headline": "Waller didn't practice Wednesday due to a knee issue, and afterward head coach Dave Canales called the tight end's injury a \"concern,\" Steve Reed of the Associated Press reports.",
+  "when": "2026-11-18T20:11:10Z"
+ },
+ {
+  "key": "news:4360635:2026-11-19T14:36:20Z",
+  "at": "2026-11-19T21:22:09.608Z",
+  "type": "news",
+  "id": "4360635",
+  "name": "Chig Okonkwo",
+  "mine": true,
+  "headline": "Fantasy football free agent pickups: Replacing Drake Maye? Trust in Tyson?",
+  "when": "2026-11-19T14:36:20Z"
+ },
+ {
+  "key": "news:4361370:2026-11-19T16:18:02Z",
+  "at": "2026-11-19T21:22:09.608Z",
+  "type": "news",
+  "id": "4361370",
+  "name": "Chris Olave",
+  "mine": true,
+  "headline": "Does Jordyn Tyson's emergence hurt Chris Olave's fantasy value?",
+  "when": "2026-11-19T16:18:02Z"
+ },
+ {
+  "key": "news:4362619:2026-11-18T21:52:35Z",
+  "at": "2026-11-19T21:22:09.608Z",
+  "type": "news",
+  "id": "4362619",
+  "name": "Chris Rodriguez Jr.",
+  "mine": true,
+  "headline": "Rodriguez (hand) was listed as a limited participant in Wednesday's practice.",
+  "when": "2026-11-18T21:52:35Z"
+ },
+ {
+  "key": "news:4431492:2026-11-18T22:57:20Z",
+  "at": "2026-11-19T21:22:09.608Z",
+  "type": "news",
+  "id": "4431492",
+  "name": "Roman Wilson",
+  "mine": true,
+  "headline": "Wilson (finger), who was designated for return from injured reserve earlier Wednesday, was a full participant in his return to practice.",
+  "when": "2026-11-18T22:57:20Z"
+ },
+ {
+  "key": "news:4608686:2026-11-18T21:07:51Z",
+  "at": "2026-11-19T21:22:09.608Z",
+  "type": "news",
+  "id": "4608686",
+  "name": "Kyle Monangai",
+  "mine": true,
+  "headline": "Monangai (toe) was listed as a full participant on Wednesday's practice estimate.",
+  "when": "2026-11-18T21:07:51Z"
+ },
+ {
+  "key": "news:4710855:2026-11-19T17:03:58Z",
+  "at": "2026-11-19T21:22:09.608Z",
+  "type": "news",
+  "id": "4710855",
+  "name": "Konata Mumpfield",
+  "mine": true,
+  "headline": "Fantasy buzz: Breaking down 11 key fantasy football stats for Week 11",
+  "when": "2026-11-19T17:03:58Z"
+ },
+ {
+  "key": "news:4870795:2026-11-19T14:36:20Z",
+  "at": "2026-11-19T21:22:09.608Z",
+  "type": "news",
+  "id": "4870795",
+  "name": "Makai Lemon",
+  "mine": true,
+  "headline": "Fantasy football free agent pickups: Replacing Drake Maye? Trust in Tyson?",
+  "when": "2026-11-19T14:36:20Z"
+ },
+ {
+  "key": "news:4871023:2026-11-18T21:00:25Z",
+  "at": "2026-11-19T21:22:09.608Z",
+  "type": "news",
+  "id": "4871023",
+  "name": "Carnell Tate",
+  "mine": true,
+  "headline": "Tate (shoulder) was a limited participant in Wednesday's practice.",
+  "when": "2026-11-18T21:00:25Z"
+ },
+ {
+  "key": "news:4880281:2026-11-19T17:03:58Z",
+  "at": "2026-11-19T21:22:09.608Z",
+  "type": "news",
+  "id": "4880281",
+  "name": "Jordyn Tyson",
+  "mine": true,
+  "headline": "Fantasy buzz: Breaking down 11 key fantasy football stats for Week 11",
+  "when": "2026-11-19T17:03:58Z"
+ },
+ {
+  "key": "value:8439:2026-11-19",
+  "at": "2026-11-19T21:22:09.608Z",
+  "type": "value",
+  "id": "8439",
+  "name": "Aaron Rodgers",
+  "mine": true,
+  "pct1": 0.05,
+  "pct7": 0.028
+ },
+ {
+  "key": "value:2573401:2026-11-19",
+  "at": "2026-11-19T21:22:09.608Z",
+  "type": "value",
+  "id": "2573401",
+  "name": "Tyler Higbee",
+  "mine": true,
+  "pct1": -0.068,
+  "pct7": -0.05
+ },
+ {
+  "key": "value:4431492:2026-11-19",
+  "at": "2026-11-19T21:22:09.608Z",
+  "type": "value",
+  "id": "4431492",
+  "name": "Roman Wilson",
+  "mine": true,
+  "pct1": -0.058,
+  "pct7": 0.09
+ },
+ {
+  "key": "value:4567156:2026-11-19",
+  "at": "2026-11-19T21:22:09.608Z",
+  "type": "value",
+  "id": "4567156",
+  "name": "Treylon Burks",
+  "mine": true,
+  "pct1": 0.232,
+  "pct7": 0.026
+ },
+ {
+  "key": "value:4702555:2026-11-19",
+  "at": "2026-11-19T21:22:09.608Z",
+  "type": "value",
+  "id": "4702555",
+  "name": "Jonah Coleman",
+  "mine": true,
+  "pct1": 0.06,
+  "pct7": 0.089
  }
 ]
