@@ -40,9 +40,10 @@ test('two watcher runs: baseline, then an injury and a waiver move become events
 
   run(path.join(tmp, 'fx2'));
   const events = JSON.parse(fs.readFileSync(path.join(state, 'events.json')));
-  const inj = events.find((e) => e.type === 'injury' && e.mine);
-  assert.ok(inj, 'my starter going OUT is logged');
-  assert.strictEqual(inj.name, myStarterWr);
+  // Both of my WR starters go OUT in run 2; event order follows the app's daily data, so match by name.
+  const inj = events.filter((e) => e.type === 'injury' && e.mine);
+  assert.ok(inj.length, 'my starter going OUT is logged');
+  assert.ok(inj.some((e) => e.name === myStarterWr), `${myStarterWr} is among the injury events`);
   assert.ok(events.find((e) => e.type === 'move' && e.teamId === 3), 'rival waiver move is logged');
   assert.ok(events.find((e) => e.type === 'trending'), 'Sleeper trending add is logged');
 

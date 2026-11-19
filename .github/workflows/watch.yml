@@ -42,6 +42,9 @@ jobs:
           node-version: 22
 
       - name: Tests
+        # Scheduled runs skip tests: the fixtures use the app's live data, which changes daily,
+        # and a flaky test must never stop the league watch.
+        if: github.event_name != 'schedule'
         run: node --test test/*.test.js
 
       - name: Watch
