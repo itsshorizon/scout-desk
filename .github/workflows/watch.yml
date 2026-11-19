@@ -9,12 +9,13 @@ name: Watch the league
 # roughly 800 of the 2,000 free private-repo Actions minutes a month.
 on:
   schedule:
-    - cron: '0 13-23 * * *'      # hourly, 8 AM to 6 PM ET
-    - cron: '0 0-4 * * *'        # hourly, 7 PM to 11 PM ET
-    - cron: '15,30,45 16-23 * * 0'  # Sunday 11:15 AM to 6:45 PM ET, every 15 min
-    - cron: '15,30,45 0-4 * * 1'    # Sunday night game
-    - cron: '15,30,45 0-4 * * 5'    # Thursday night game
-    - cron: '15,30,45 0-4 * * 2'    # Monday night game
+    # Minutes are off the hour and quarter-hour on purpose: GitHub delays or drops many runs scheduled at :00.
+    - cron: '7 13-23 * * *'      # hourly, 8 AM to 6 PM ET
+    - cron: '7 0-4 * * *'        # hourly, 7 PM to 11 PM ET
+    - cron: '22,37,52 16-23 * * 0'  # Sunday 11:15 AM to 6:45 PM ET, every 15 min
+    - cron: '22,37,52 0-4 * * 1'    # Sunday night game
+    - cron: '22,37,52 0-4 * * 5'    # Thursday night game
+    - cron: '22,37,52 0-4 * * 2'    # Monday night game
   workflow_dispatch:
 
 permissions:
