@@ -1,5 +1,5 @@
 {
- "at": "2026-11-20T02:58:15.882Z",
+ "at": "2026-11-20T07:00:15.168Z",
  "myTeamId": 1,
  "week": 11,
  "slots": {
@@ -807,7 +807,7 @@
     "pos": "WR",
     "slot": "BE",
     "pro": 34,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 8.2
    },
    {
@@ -1162,7 +1162,7 @@
     "pos": "RB",
     "slot": "BE",
     "pro": 11,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 5.3
    },
    {
@@ -2858,7 +2858,7 @@
    "abbr": "DAL",
    "opp": "TEN",
    "home": true,
-   "implied": 32
+   "implied": 31.5
   },
   "7": {
    "date": "2026-11-22T21:25Z",
@@ -2882,11 +2882,11 @@
    "abbr": "TEN",
    "opp": "DAL",
    "home": false,
-   "implied": 23.5
+   "implied": 23
   },
   "11": {
    "date": "2026-11-20T01:15Z",
-   "state": "in",
+   "state": "post",
    "abbr": "IND",
    "opp": "HOU",
    "home": false,
@@ -2954,7 +2954,7 @@
    "abbr": "PHI",
    "opp": "PIT",
    "home": true,
-   "implied": 17
+   "implied": 17.5
   },
   "22": {
    "date": "2026-11-22T18:00Z",
@@ -2970,7 +2970,7 @@
    "abbr": "PIT",
    "opp": "PHI",
    "home": false,
-   "implied": 21.5
+   "implied": 21
   },
   "24": {
    "date": "2026-11-22T21:05Z",
@@ -3030,7 +3030,7 @@
   },
   "34": {
    "date": "2026-11-20T01:15Z",
-   "state": "in",
+   "state": "post",
    "abbr": "HOU",
    "opp": "IND",
    "home": true,

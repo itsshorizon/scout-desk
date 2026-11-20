@@ -672,5 +672,31 @@
   "starter": false,
   "from": "ACTIVE",
   "to": "QUESTIONABLE"
+ },
+ {
+  "key": "inj:4429022:11:ACTIVE>QUESTIONABLE",
+  "at": "2026-11-20T07:00:15.168Z",
+  "type": "injury",
+  "id": "4429022",
+  "name": "Kayshon Boutte",
+  "pos": "WR",
+  "teamId": 3,
+  "mine": false,
+  "starter": false,
+  "from": "ACTIVE",
+  "to": "QUESTIONABLE"
+ },
+ {
+  "key": "inj:4686468:11:ACTIVE>QUESTIONABLE",
+  "at": "2026-11-20T07:00:15.168Z",
+  "type": "injury",
+  "id": "4686468",
+  "name": "Seth McGowan",
+  "pos": "RB",
+  "teamId": 5,
+  "mine": false,
+  "starter": false,
+  "from": "ACTIVE",
+  "to": "QUESTIONABLE"
  }
 ]
