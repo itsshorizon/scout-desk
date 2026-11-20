@@ -646,5 +646,31 @@
   "mine": true,
   "pct1": 0.06,
   "pct7": 0.089
+ },
+ {
+  "key": "inj:4241478:11:QUESTIONABLE>ACTIVE",
+  "at": "2026-11-20T02:58:15.882Z",
+  "type": "injury",
+  "id": "4241478",
+  "name": "DeVonta Smith",
+  "pos": "WR",
+  "teamId": 13,
+  "mine": false,
+  "starter": false,
+  "from": "QUESTIONABLE",
+  "to": "ACTIVE"
+ },
+ {
+  "key": "inj:4430841:11:ACTIVE>QUESTIONABLE",
+  "at": "2026-11-20T02:58:15.882Z",
+  "type": "injury",
+  "id": "4430841",
+  "name": "Carson Beck",
+  "pos": "QB",
+  "teamId": 7,
+  "mine": false,
+  "starter": false,
+  "from": "ACTIVE",
+  "to": "QUESTIONABLE"
  }
 ]

@@ -1,5 +1,5 @@
 {
- "at": "2026-11-19T21:22:09.608Z",
+ "at": "2026-11-20T02:58:15.882Z",
  "myTeamId": 1,
  "week": 11,
  "slots": {
@@ -425,7 +425,7 @@
     "id": "4569173",
     "name": "Rhamondre Stevenson",
     "pos": "RB",
-    "slot": "FLEX",
+    "slot": "BE",
     "pro": 17,
     "inj": "ACTIVE",
     "proj": 0
@@ -479,7 +479,7 @@
     "id": "4596334",
     "name": "Keaton Mitchell",
     "pos": "RB",
-    "slot": "BE",
+    "slot": "FLEX",
     "pro": 24,
     "inj": "ACTIVE",
     "proj": 6.6
@@ -524,7 +524,7 @@
     "id": "3886598",
     "name": "Jauan Jennings",
     "pos": "WR",
-    "slot": "BE",
+    "slot": "FLEX",
     "pro": 16,
     "inj": "ACTIVE",
     "proj": 7.1
@@ -578,7 +578,7 @@
     "id": "4429205",
     "name": "Jordan Addison",
     "pos": "WR",
-    "slot": "FLEX",
+    "slot": "BE",
     "pro": 16,
     "inj": "OUT",
     "proj": 0
@@ -652,7 +652,7 @@
     "id": "16737",
     "name": "Mike Evans",
     "pos": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "pro": 25,
     "inj": "QUESTIONABLE",
     "proj": 0
@@ -679,7 +679,7 @@
     "id": "4038441",
     "name": "Justice Hill",
     "pos": "RB",
-    "slot": "BE",
+    "slot": "FLEX",
     "pro": 33,
     "inj": "ACTIVE",
     "proj": 8.4
@@ -787,7 +787,7 @@
     "id": "3915416",
     "name": "DJ Moore",
     "pos": "WR",
-    "slot": "FLEX",
+    "slot": "WR",
     "pro": 2,
     "inj": "ACTIVE",
     "proj": 13.6
@@ -861,7 +861,7 @@
     "id": "4596448",
     "name": "Bucky Irving",
     "pos": "RB",
-    "slot": "BE",
+    "slot": "RB",
     "pro": 27,
     "inj": "ACTIVE",
     "proj": 17.2
@@ -870,7 +870,7 @@
     "id": "3128429",
     "name": "Courtland Sutton",
     "pos": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "pro": 7,
     "inj": "ACTIVE",
     "proj": 10.3
@@ -879,7 +879,7 @@
     "id": "4241985",
     "name": "J.K. Dobbins",
     "pos": "RB",
-    "slot": "BE",
+    "slot": "FLEX",
     "pro": 7,
     "inj": "ACTIVE",
     "proj": 8.5
@@ -906,7 +906,7 @@
     "id": "3116365",
     "name": "Mark Andrews",
     "pos": "TE",
-    "slot": "BE",
+    "slot": "FLEX",
     "pro": 33,
     "inj": "ACTIVE",
     "proj": 9.7
@@ -933,7 +933,7 @@
     "id": "4576297",
     "name": "AJ Barner",
     "pos": "TE",
-    "slot": "FLEX",
+    "slot": "BE",
     "pro": 26,
     "inj": "ACTIVE",
     "proj": 0
@@ -951,7 +951,7 @@
     "id": "4685261",
     "name": "Germie Bernard",
     "pos": "WR",
-    "slot": "FLEX",
+    "slot": "BE",
     "pro": 23,
     "inj": "ACTIVE",
     "proj": 3.2
@@ -1014,7 +1014,7 @@
     "id": "4723820",
     "name": "Omar Cooper Jr.",
     "pos": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "pro": 20,
     "inj": "QUESTIONABLE",
     "proj": 0
@@ -1032,7 +1032,7 @@
     "id": "4686658",
     "name": "Mike Washington Jr.",
     "pos": "RB",
-    "slot": "RB",
+    "slot": "BE",
     "pro": 13,
     "inj": "ACTIVE",
     "proj": 6.4
@@ -1678,7 +1678,7 @@
     "name": "Pierre Strong Jr.",
     "pos": "RB",
     "slot": "BE",
-    "pro": 9,
+    "pro": 0,
     "inj": "ACTIVE",
     "proj": 0
    },
@@ -1688,7 +1688,7 @@
     "pos": "QB",
     "slot": "BE",
     "pro": 22,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 7.4
    },
    {
@@ -2387,7 +2387,7 @@
     "id": "3043078",
     "name": "Derrick Henry",
     "pos": "RB",
-    "slot": "RB",
+    "slot": "FLEX",
     "pro": 33,
     "inj": "ACTIVE",
     "proj": 14.5
@@ -2423,7 +2423,7 @@
     "id": "4259545",
     "name": "D'Andre Swift",
     "pos": "RB",
-    "slot": "BE",
+    "slot": "RB",
     "pro": 3,
     "inj": "ACTIVE",
     "proj": 16.9
@@ -2522,9 +2522,9 @@
     "id": "4241478",
     "name": "DeVonta Smith",
     "pos": "WR",
-    "slot": "FLEX",
+    "slot": "BE",
     "pro": 21,
-    "inj": "QUESTIONABLE",
+    "inj": "ACTIVE",
     "proj": 13
    },
    {
@@ -2866,7 +2866,7 @@
    "abbr": "DEN",
    "opp": "LV",
    "home": true,
-   "implied": 25.3
+   "implied": 25.5
   },
   "8": {
    "date": "2026-11-22T18:00Z",
@@ -2886,11 +2886,11 @@
   },
   "11": {
    "date": "2026-11-20T01:15Z",
-   "state": "pre",
+   "state": "in",
    "abbr": "IND",
    "opp": "HOU",
    "home": false,
-   "implied": 16
+   "implied": null
   },
   "12": {
    "date": "2026-11-22T18:00Z",
@@ -2898,7 +2898,7 @@
    "abbr": "KC",
    "opp": "ARI",
    "home": true,
-   "implied": 28
+   "implied": 28.5
   },
   "13": {
    "date": "2026-11-22T21:25Z",
@@ -2906,7 +2906,7 @@
    "abbr": "LV",
    "opp": "DEN",
    "home": false,
-   "implied": 15.3
+   "implied": 15
   },
   "15": {
    "date": "2026-11-22T18:00Z",
@@ -2922,7 +2922,7 @@
    "abbr": "MIN",
    "opp": "SF",
    "home": false,
-   "implied": 21.8
+   "implied": 21.5
   },
   "18": {
    "date": "2026-11-22T18:00Z",
@@ -2954,7 +2954,7 @@
    "abbr": "PHI",
    "opp": "PIT",
    "home": true,
-   "implied": 16.5
+   "implied": 17
   },
   "22": {
    "date": "2026-11-22T18:00Z",
@@ -2962,7 +2962,7 @@
    "abbr": "ARI",
    "opp": "KC",
    "home": false,
-   "implied": 12.5
+   "implied": 12
   },
   "23": {
    "date": "2026-11-22T18:00Z",
@@ -2970,7 +2970,7 @@
    "abbr": "PIT",
    "opp": "PHI",
    "home": false,
-   "implied": 21
+   "implied": 21.5
   },
   "24": {
    "date": "2026-11-22T21:05Z",
@@ -2986,7 +2986,7 @@
    "abbr": "SF",
    "opp": "MIN",
    "home": true,
-   "implied": 24.8
+   "implied": 25
   },
   "27": {
    "date": "2026-11-22T18:00Z",
@@ -3030,11 +3030,11 @@
   },
   "34": {
    "date": "2026-11-20T01:15Z",
-   "state": "pre",
+   "state": "in",
    "abbr": "HOU",
    "opp": "IND",
    "home": true,
-   "implied": 28.5
+   "implied": null
   }
  }
 }
