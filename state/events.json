@@ -698,5 +698,481 @@
   "starter": false,
   "from": "ACTIVE",
   "to": "QUESTIONABLE"
+ },
+ {
+  "key": "inj:15864:11:QUESTIONABLE>ACTIVE",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "injury",
+  "id": "15864",
+  "name": "Geno Smith",
+  "pos": "QB",
+  "teamId": 13,
+  "mine": false,
+  "starter": true,
+  "from": "QUESTIONABLE",
+  "to": "ACTIVE"
+ },
+ {
+  "key": "inj:4036133:11:QUESTIONABLE>ACTIVE",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "injury",
+  "id": "4036133",
+  "name": "T.J. Hockenson",
+  "pos": "TE",
+  "teamId": 4,
+  "mine": false,
+  "starter": false,
+  "from": "QUESTIONABLE",
+  "to": "ACTIVE"
+ },
+ {
+  "key": "inj:4047646:11:QUESTIONABLE>DOUBTFUL",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "injury",
+  "id": "4047646",
+  "name": "A.J. Brown",
+  "pos": "WR",
+  "teamId": 6,
+  "mine": false,
+  "starter": false,
+  "from": "QUESTIONABLE",
+  "to": "DOUBTFUL"
+ },
+ {
+  "key": "inj:4361050:11:ACTIVE>QUESTIONABLE",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "injury",
+  "id": "4361050",
+  "name": "Isaiah Likely",
+  "pos": "TE",
+  "teamId": 2,
+  "mine": false,
+  "starter": true,
+  "from": "ACTIVE",
+  "to": "QUESTIONABLE"
+ },
+ {
+  "key": "inj:4385690:11:QUESTIONABLE>DOUBTFUL",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "injury",
+  "id": "4385690",
+  "name": "Dalton Kincaid",
+  "pos": "TE",
+  "teamId": 12,
+  "mine": false,
+  "starter": true,
+  "from": "QUESTIONABLE",
+  "to": "DOUBTFUL"
+ },
+ {
+  "key": "inj:4428850:11:QUESTIONABLE>OUT",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "injury",
+  "id": "4428850",
+  "name": "Dontayvion Wicks",
+  "pos": "WR",
+  "teamId": 6,
+  "mine": false,
+  "starter": false,
+  "from": "QUESTIONABLE",
+  "to": "OUT"
+ },
+ {
+  "key": "inj:4429501:11:QUESTIONABLE>ACTIVE",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "injury",
+  "id": "4429501",
+  "name": "Ray Davis",
+  "pos": "RB",
+  "teamId": 2,
+  "mine": false,
+  "starter": false,
+  "from": "QUESTIONABLE",
+  "to": "ACTIVE"
+ },
+ {
+  "key": "inj:4431452:11:DOUBTFUL>OUT",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "injury",
+  "id": "4431452",
+  "name": "Drake Maye",
+  "pos": "QB",
+  "teamId": 6,
+  "mine": false,
+  "starter": false,
+  "from": "DOUBTFUL",
+  "to": "OUT"
+ },
+ {
+  "key": "inj:4567048:11:QUESTIONABLE>OUT",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "injury",
+  "id": "4567048",
+  "name": "Kenneth Walker III",
+  "pos": "RB",
+  "teamId": 1,
+  "mine": true,
+  "starter": false,
+  "from": "QUESTIONABLE",
+  "to": "OUT"
+ },
+ {
+  "key": "inj:4569371:11:QUESTIONABLE>OUT",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "injury",
+  "id": "4569371",
+  "name": "Isaiah Williams",
+  "pos": "WR",
+  "teamId": 10,
+  "mine": false,
+  "starter": false,
+  "from": "QUESTIONABLE",
+  "to": "OUT"
+ },
+ {
+  "key": "inj:4723820:11:QUESTIONABLE>OUT",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "injury",
+  "id": "4723820",
+  "name": "Omar Cooper Jr.",
+  "pos": "WR",
+  "teamId": 4,
+  "mine": false,
+  "starter": false,
+  "from": "QUESTIONABLE",
+  "to": "OUT"
+ },
+ {
+  "key": "inj:4869645:11:QUESTIONABLE>ACTIVE",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "injury",
+  "id": "4869645",
+  "name": "Caleb Douglas",
+  "pos": "WR",
+  "teamId": 5,
+  "mine": false,
+  "starter": true,
+  "from": "QUESTIONABLE",
+  "to": "ACTIVE"
+ },
+ {
+  "key": "inj:4869961:11:QUESTIONABLE>ACTIVE",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "injury",
+  "id": "4869961",
+  "name": "Chris Bell",
+  "pos": "WR",
+  "teamId": 12,
+  "mine": false,
+  "starter": false,
+  "from": "QUESTIONABLE",
+  "to": "ACTIVE"
+ },
+ {
+  "key": "inj:4880281:11:QUESTIONABLE>ACTIVE",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "injury",
+  "id": "4880281",
+  "name": "Jordyn Tyson",
+  "pos": "WR",
+  "teamId": 1,
+  "mine": true,
+  "starter": true,
+  "from": "QUESTIONABLE",
+  "to": "ACTIVE"
+ },
+ {
+  "key": "txn:fe0a363c-3295-49f5-9a69-4b5c515939a8",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "move",
+  "teamId": 1,
+  "mine": true,
+  "bid": null,
+  "adds": [
+   {
+    "id": "3122840",
+    "name": "Deshaun Watson",
+    "teamId": 1
+   }
+  ],
+  "drops": [
+   {
+    "id": "4567156",
+    "name": "Treylon Burks",
+    "teamId": 1
+   }
+  ],
+  "trades": [],
+  "touchesMyPlayer": true
+ },
+ {
+  "key": "news:8439:2026-11-20T11:51:24Z",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "news",
+  "id": "8439",
+  "name": "Aaron Rodgers",
+  "mine": true,
+  "headline": "Fantasy football last-minute pickups: Flournoy, Ayomanor among top candidates",
+  "when": "2026-11-20T11:51:24Z"
+ },
+ {
+  "key": "news:2576925:2026-11-20T17:34:46Z",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "news",
+  "id": "2576925",
+  "name": "Darren Waller",
+  "mine": true,
+  "headline": "Waller (knee) is listed as questionable for Sunday's game against the Ravens, Joseph Person of The Athletic reports.",
+  "when": "2026-11-20T17:34:46Z"
+ },
+ {
+  "key": "news:3122840:2026-11-20T13:16:44Z",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "news",
+  "id": "3122840",
+  "name": "Deshaun Watson",
+  "mine": true,
+  "headline": "Fantasy football: Don't be surprised if Likely is TE1, Gainwell finishes strong",
+  "when": "2026-11-20T13:16:44Z"
+ },
+ {
+  "key": "news:4360635:2026-11-20T11:51:24Z",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "news",
+  "id": "4360635",
+  "name": "Chig Okonkwo",
+  "mine": true,
+  "headline": "Fantasy football last-minute pickups: Flournoy, Ayomanor among top candidates",
+  "when": "2026-11-20T11:51:24Z"
+ },
+ {
+  "key": "news:4360689:2026-11-19T22:42:50Z",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "news",
+  "id": "4360689",
+  "name": "Tyler Shough",
+  "mine": true,
+  "headline": "Shough is no longer wearing a protect glove on his left (non-throwing) hand at Thursday's practice, Nick Underhill of NewOrleans.Football reports.",
+  "when": "2026-11-19T22:42:50Z"
+ },
+ {
+  "key": "news:4361370:2026-11-19T19:46:43Z",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "news",
+  "id": "4361370",
+  "name": "Chris Olave",
+  "mine": true,
+  "headline": "Facts vs. Feelings: Bye-mageddon means getting comfortable with the uncomfortable",
+  "when": "2026-11-19T19:46:43Z"
+ },
+ {
+  "key": "news:4362619:2026-11-19T21:24:00Z",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "news",
+  "id": "4362619",
+  "name": "Chris Rodriguez Jr.",
+  "mine": true,
+  "headline": "Rodriguez (hand) was listed as a limited participant in Thursday's practice, Ryan O'Halloran of The Florida Times-Union reports.",
+  "when": "2026-11-19T21:24:00Z"
+ },
+ {
+  "key": "news:4431492:2026-11-19T21:46:20Z",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "news",
+  "id": "4431492",
+  "name": "Roman Wilson",
+  "mine": true,
+  "headline": "Wilson (finger) was a full participant in Thursday's practice.",
+  "when": "2026-11-19T21:46:20Z"
+ },
+ {
+  "key": "news:4567048:2026-11-20T18:01:14Z",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "news",
+  "id": "4567048",
+  "name": "Kenneth Walker III",
+  "mine": true,
+  "headline": "Walker (groin) wasn't spotted during the portion of Friday's practice open to the media, Pete Sweeney of The Kansas City Star reports.",
+  "when": "2026-11-20T18:01:14Z"
+ },
+ {
+  "key": "news:4569618:2026-11-20T12:40:11Z",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "news",
+  "id": "4569618",
+  "name": "Garrett Wilson",
+  "mine": true,
+  "headline": "What to know to set your lineup: Nix, Ward viable options if your QB is on bye",
+  "when": "2026-11-20T12:40:11Z"
+ },
+ {
+  "key": "news:4608686:2026-11-20T12:40:11Z",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "news",
+  "id": "4608686",
+  "name": "Kyle Monangai",
+  "mine": true,
+  "headline": "What to know to set your lineup: Nix, Ward viable options if your QB is on bye",
+  "when": "2026-11-20T12:40:11Z"
+ },
+ {
+  "key": "news:4686728:2026-11-20T12:40:11Z",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "news",
+  "id": "4686728",
+  "name": "Gunnar Helm",
+  "mine": true,
+  "headline": "What to know to set your lineup: Nix, Ward viable options if your QB is on bye",
+  "when": "2026-11-20T12:40:11Z"
+ },
+ {
+  "key": "news:4702555:2026-11-20T12:40:11Z",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "news",
+  "id": "4702555",
+  "name": "Jonah Coleman",
+  "mine": true,
+  "headline": "What to know to set your lineup: Nix, Ward viable options if your QB is on bye",
+  "when": "2026-11-20T12:40:11Z"
+ },
+ {
+  "key": "news:4710855:2026-11-20T13:45:51Z",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "news",
+  "id": "4710855",
+  "name": "Konata Mumpfield",
+  "mine": true,
+  "headline": "Fantasy buzz: Stroud has Houston fans over the moon, Colts continue to crumble",
+  "when": "2026-11-20T13:45:51Z"
+ },
+ {
+  "key": "news:4871023:2026-11-19T21:13:59Z",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "news",
+  "id": "4871023",
+  "name": "Carnell Tate",
+  "mine": true,
+  "headline": "Tate (shoulder) was a limited participant in Thursday's practice.",
+  "when": "2026-11-19T21:13:59Z"
+ },
+ {
+  "key": "news:4880281:2026-11-20T13:45:51Z",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "news",
+  "id": "4880281",
+  "name": "Jordyn Tyson",
+  "mine": true,
+  "headline": "Fantasy buzz: Stroud has Houston fans over the moon, Colts continue to crumble",
+  "when": "2026-11-20T13:45:51Z"
+ },
+ {
+  "key": "news:5083315:2026-11-20T17:16:22Z",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "news",
+  "id": "5083315",
+  "name": "Kenyon Sadiq",
+  "mine": true,
+  "headline": "With Omar Cooper (ankle) ruled out, coach Aaron Glenn said Friday that Sadiq could see more pass-catching opportunities Sunday against the Chargers.",
+  "when": "2026-11-20T17:16:22Z"
+ },
+ {
+  "key": "value:3122840:2026-11-20",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "value",
+  "id": "3122840",
+  "name": "Deshaun Watson",
+  "mine": true,
+  "pct1": 0.087,
+  "pct7": 0.094
+ },
+ {
+  "key": "value:4360438:2026-11-20",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "value",
+  "id": "4360438",
+  "name": "Brandon Aiyuk",
+  "mine": true,
+  "pct1": 0.103,
+  "pct7": 0
+ },
+ {
+  "key": "value:4360689:2026-11-20",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "value",
+  "id": "4360689",
+  "name": "Tyler Shough",
+  "mine": true,
+  "pct1": -0.077,
+  "pct7": -0.132
+ },
+ {
+  "key": "value:4361370:2026-11-20",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "value",
+  "id": "4361370",
+  "name": "Chris Olave",
+  "mine": true,
+  "pct1": -0.054,
+  "pct7": -0.141
+ },
+ {
+  "key": "value:4429795:2026-11-20",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "value",
+  "id": "4429795",
+  "name": "Jahmyr Gibbs",
+  "mine": true,
+  "pct1": -0.1,
+  "pct7": -0.101
+ },
+ {
+  "key": "value:4431492:2026-11-20",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "value",
+  "id": "4431492",
+  "name": "Roman Wilson",
+  "mine": true,
+  "pct1": -0.13,
+  "pct7": -0.16
+ },
+ {
+  "key": "value:4567048:2026-11-20",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "value",
+  "id": "4567048",
+  "name": "Kenneth Walker III",
+  "mine": true,
+  "pct1": -0.059,
+  "pct7": -0.12
+ },
+ {
+  "key": "value:4685415:2026-11-20",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "value",
+  "id": "4685415",
+  "name": "Travis Hunter",
+  "mine": true,
+  "pct1": 0.058,
+  "pct7": -0.01
+ },
+ {
+  "key": "value:4701936:2026-11-20",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "value",
+  "id": "4701936",
+  "name": "Matthew Golden",
+  "mine": true,
+  "pct1": -0.071,
+  "pct7": -0.093
+ },
+ {
+  "key": "value:4710855:2026-11-20",
+  "at": "2026-11-20T20:59:56.475Z",
+  "type": "value",
+  "id": "4710855",
+  "name": "Konata Mumpfield",
+  "mine": true,
+  "pct1": -0.131,
+  "pct7": -0.119
  }
 ]
