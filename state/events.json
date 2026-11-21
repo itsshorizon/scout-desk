@@ -1298,5 +1298,144 @@
   "name": "Josh Johnson",
   "mine": false,
   "adds24h": 19610
+ },
+ {
+  "key": "inj:4428557:11:QUESTIONABLE>INJURY_RESERVE",
+  "at": "2026-11-21T20:01:27.584Z",
+  "type": "injury",
+  "id": "4428557",
+  "name": "Tyjae Spears",
+  "pos": "RB",
+  "teamId": 2,
+  "mine": false,
+  "starter": false,
+  "from": "QUESTIONABLE",
+  "to": "INJURY_RESERVE"
+ },
+ {
+  "key": "inj:4430841:11:QUESTIONABLE>OUT",
+  "at": "2026-11-21T20:01:27.584Z",
+  "type": "injury",
+  "id": "4430841",
+  "name": "Carson Beck",
+  "pos": "QB",
+  "teamId": 7,
+  "mine": false,
+  "starter": false,
+  "from": "QUESTIONABLE",
+  "to": "OUT"
+ },
+ {
+  "key": "inj:4431492:11:INJURY_RESERVE>QUESTIONABLE",
+  "at": "2026-11-21T20:01:27.584Z",
+  "type": "injury",
+  "id": "4431492",
+  "name": "Roman Wilson",
+  "pos": "WR",
+  "teamId": 1,
+  "mine": true,
+  "starter": false,
+  "from": "INJURY_RESERVE",
+  "to": "QUESTIONABLE"
+ },
+ {
+  "key": "news:4362619:2026-11-20T21:35:43Z",
+  "at": "2026-11-21T20:01:27.584Z",
+  "type": "news",
+  "id": "4362619",
+  "name": "Chris Rodriguez Jr.",
+  "mine": true,
+  "headline": "Rodriguez (hand) doesn't have an injury designation for Sunday's game against the Giants.",
+  "when": "2026-11-20T21:35:43Z"
+ },
+ {
+  "key": "news:4431492:2026-11-20T20:09:58Z",
+  "at": "2026-11-21T20:01:27.584Z",
+  "type": "news",
+  "id": "4431492",
+  "name": "Roman Wilson",
+  "mine": true,
+  "headline": "Wilson (finger) is questionable for Sunday's game against the Eagles, Brooke Pryor of ESPN.com reports.",
+  "when": "2026-11-20T20:09:58Z"
+ },
+ {
+  "key": "news:4567048:2026-11-20T20:13:51Z",
+  "at": "2026-11-21T20:01:27.584Z",
+  "type": "news",
+  "id": "4567048",
+  "name": "Kenneth Walker III",
+  "mine": true,
+  "headline": "Walker (groin) has been ruled out for Sunday's game against the Cardinals.",
+  "when": "2026-11-20T20:13:51Z"
+ },
+ {
+  "key": "news:4608686:2026-11-20T19:49:13Z",
+  "at": "2026-11-21T20:01:27.584Z",
+  "type": "news",
+  "id": "4608686",
+  "name": "Kyle Monangai",
+  "mine": true,
+  "headline": "Monangai (toe) doesn't have a designation for Sunday's game against the Saints.",
+  "when": "2026-11-20T19:49:13Z"
+ },
+ {
+  "key": "news:4710855:2026-11-20T23:18:26Z",
+  "at": "2026-11-21T20:01:27.584Z",
+  "type": "news",
+  "id": "4710855",
+  "name": "Konata Mumpfield",
+  "mine": true,
+  "headline": "The Rams are expected to lean more on Mumpfield and the rest of the team's wide receivers in the absence of Puka Nacua (knee/toe), the latter of whom is expected to be sidelined for the remainder of the regular season, Nate Atkins and Jonathan Jones of The Athletic report.",
+  "when": "2026-11-20T23:18:26Z"
+ },
+ {
+  "key": "news:4870795:2026-11-20T23:24:27Z",
+  "at": "2026-11-21T20:01:27.584Z",
+  "type": "news",
+  "id": "4870795",
+  "name": "Makai Lemon",
+  "mine": true,
+  "headline": "Lemon will operate as the Eagles' WR2 against the Steelers on Sunday due to the return of DeVonta Smith (hamstring).",
+  "when": "2026-11-20T23:24:27Z"
+ },
+ {
+  "key": "news:4871023:2026-11-21T16:43:26Z",
+  "at": "2026-11-21T20:01:27.584Z",
+  "type": "news",
+  "id": "4871023",
+  "name": "Carnell Tate",
+  "mine": true,
+  "headline": "Tate (shoulder) is questionable for Sunday's game against the Cowboys but is \"considered likely\" to be cleared to play, Matt Zenitz of CBS Sports reports.",
+  "when": "2026-11-21T16:43:26Z"
+ },
+ {
+  "key": "news:4880281:2026-11-20T21:04:02Z",
+  "at": "2026-11-21T20:01:27.584Z",
+  "type": "news",
+  "id": "4880281",
+  "name": "Jordyn Tyson",
+  "mine": true,
+  "headline": "Fantasy buzz: Does anything change in Indy with Richardson under center?",
+  "when": "2026-11-20T21:04:02Z"
+ },
+ {
+  "key": "value:4360438:2026-11-21",
+  "at": "2026-11-21T20:01:27.584Z",
+  "type": "value",
+  "id": "4360438",
+  "name": "Brandon Aiyuk",
+  "mine": true,
+  "pct1": -0.083,
+  "pct7": -0.111
+ },
+ {
+  "key": "value:4431492:2026-11-21",
+  "at": "2026-11-21T20:01:27.584Z",
+  "type": "value",
+  "id": "4431492",
+  "name": "Roman Wilson",
+  "mine": true,
+  "pct1": -0.149,
+  "pct7": -0.283
  }
 ]
