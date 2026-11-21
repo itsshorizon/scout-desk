@@ -1289,5 +1289,14 @@
   ],
   "trades": [],
   "touchesMyPlayer": false
+ },
+ {
+  "key": "trend:11394:2026-11-21",
+  "at": "2026-11-21T06:55:46.420Z",
+  "type": "trending",
+  "id": "11394",
+  "name": "Josh Johnson",
+  "mine": false,
+  "adds24h": 19610
  }
 ]
