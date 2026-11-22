@@ -1739,5 +1739,88 @@
   "mine": true,
   "pct1": -0.106,
   "pct7": -0.063
+ },
+ {
+  "key": "inj:4695883:11:ACTIVE>QUESTIONABLE",
+  "at": "2026-11-22T21:54:38.122Z",
+  "type": "injury",
+  "id": "4695883",
+  "name": "Jalen Coker",
+  "pos": "WR",
+  "teamId": 12,
+  "mine": false,
+  "starter": true,
+  "from": "ACTIVE",
+  "to": "QUESTIONABLE"
+ },
+ {
+  "key": "news:8439:2026-11-22T21:10:13Z",
+  "at": "2026-11-22T21:54:38.122Z",
+  "type": "news",
+  "id": "8439",
+  "name": "Aaron Rodgers",
+  "mine": true,
+  "headline": "Max Hurleman catches a TD in his 1st NFL game",
+  "when": "2026-11-22T21:10:13Z"
+ },
+ {
+  "key": "news:4360689:2026-11-22T21:11:11Z",
+  "at": "2026-11-22T21:54:38.122Z",
+  "type": "news",
+  "id": "4360689",
+  "name": "Tyler Shough",
+  "mine": true,
+  "headline": "Bears get to Tyler Shough in the end zone for a safety",
+  "when": "2026-11-22T21:11:11Z"
+ },
+ {
+  "key": "news:4426388:2026-11-22T21:25:47Z",
+  "at": "2026-11-22T21:54:38.122Z",
+  "type": "news",
+  "id": "4426388",
+  "name": "Jameson Williams",
+  "mine": true,
+  "headline": "Jameson Williams flips into end zone to celebrate 57-yard TD catch",
+  "when": "2026-11-22T21:25:47Z"
+ },
+ {
+  "key": "news:4429795:2026-11-22T21:33:54Z",
+  "at": "2026-11-22T21:54:38.122Z",
+  "type": "news",
+  "id": "4429795",
+  "name": "Jahmyr Gibbs",
+  "mine": true,
+  "headline": "Fantasy buzz: Week 11's leading fantasy scorers through Sunday's early games",
+  "when": "2026-11-22T21:33:54Z"
+ },
+ {
+  "key": "news:4871023:2026-11-22T21:22:39Z",
+  "at": "2026-11-22T21:54:38.122Z",
+  "type": "news",
+  "id": "4871023",
+  "name": "Carnell Tate",
+  "mine": true,
+  "headline": "Carnell Tate runs untouched for a 59-yard Titans TD you have to see",
+  "when": "2026-11-22T21:22:39Z"
+ },
+ {
+  "key": "news:4880281:2026-11-22T21:33:54Z",
+  "at": "2026-11-22T21:54:38.122Z",
+  "type": "news",
+  "id": "4880281",
+  "name": "Jordyn Tyson",
+  "mine": true,
+  "headline": "Fantasy buzz: Week 11's leading fantasy scorers through Sunday's early games",
+  "when": "2026-11-22T21:33:54Z"
+ },
+ {
+  "key": "value:2573401:2026-11-22",
+  "at": "2026-11-22T21:54:38.122Z",
+  "type": "value",
+  "id": "2573401",
+  "name": "Tyler Higbee",
+  "mine": true,
+  "pct1": 0.054,
+  "pct7": -0.093
  }
 ]

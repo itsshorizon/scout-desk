@@ -1,5 +1,5 @@
 {
- "at": "2026-11-22T20:16:48.060Z",
+ "at": "2026-11-22T21:54:38.122Z",
  "myTeamId": 1,
  "week": 11,
  "slots": {
@@ -2270,7 +2270,7 @@
     "pos": "WR",
     "slot": "FLEX",
     "pro": 29,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 8.8
    },
    {
@@ -2830,7 +2830,7 @@
  "games": {
   "2": {
    "date": "2026-11-22T18:00Z",
-   "state": "in",
+   "state": "post",
    "abbr": "BUF",
    "opp": "MIA",
    "home": true,
@@ -2838,7 +2838,7 @@
   },
   "3": {
    "date": "2026-11-22T18:00Z",
-   "state": "in",
+   "state": "post",
    "abbr": "CHI",
    "opp": "NO",
    "home": true,
@@ -2854,7 +2854,7 @@
   },
   "6": {
    "date": "2026-11-22T18:00Z",
-   "state": "in",
+   "state": "post",
    "abbr": "DAL",
    "opp": "TEN",
    "home": true,
@@ -2862,15 +2862,15 @@
   },
   "7": {
    "date": "2026-11-22T21:25Z",
-   "state": "pre",
+   "state": "in",
    "abbr": "DEN",
    "opp": "LV",
    "home": true,
-   "implied": 25.5
+   "implied": null
   },
   "8": {
    "date": "2026-11-22T18:00Z",
-   "state": "in",
+   "state": "post",
    "abbr": "DET",
    "opp": "TB",
    "home": true,
@@ -2878,7 +2878,7 @@
   },
   "10": {
    "date": "2026-11-22T18:00Z",
-   "state": "in",
+   "state": "post",
    "abbr": "TEN",
    "opp": "DAL",
    "home": false,
@@ -2894,7 +2894,7 @@
   },
   "12": {
    "date": "2026-11-22T18:00Z",
-   "state": "in",
+   "state": "post",
    "abbr": "KC",
    "opp": "ARI",
    "home": true,
@@ -2902,15 +2902,15 @@
   },
   "13": {
    "date": "2026-11-22T21:25Z",
-   "state": "pre",
+   "state": "in",
    "abbr": "LV",
    "opp": "DEN",
    "home": false,
-   "implied": 15
+   "implied": null
   },
   "15": {
    "date": "2026-11-22T18:00Z",
-   "state": "in",
+   "state": "post",
    "abbr": "MIA",
    "opp": "BUF",
    "home": false,
@@ -2926,7 +2926,7 @@
   },
   "18": {
    "date": "2026-11-22T18:00Z",
-   "state": "in",
+   "state": "post",
    "abbr": "NO",
    "opp": "CHI",
    "home": false,
@@ -2934,23 +2934,23 @@
   },
   "19": {
    "date": "2026-11-22T21:25Z",
-   "state": "pre",
+   "state": "in",
    "abbr": "NYG",
    "opp": "JAX",
    "home": true,
-   "implied": 19.8
+   "implied": null
   },
   "20": {
    "date": "2026-11-22T21:05Z",
-   "state": "pre",
+   "state": "in",
    "abbr": "NYJ",
    "opp": "LAC",
    "home": false,
-   "implied": 20.3
+   "implied": null
   },
   "21": {
    "date": "2026-11-22T18:00Z",
-   "state": "in",
+   "state": "post",
    "abbr": "PHI",
    "opp": "PIT",
    "home": true,
@@ -2958,7 +2958,7 @@
   },
   "22": {
    "date": "2026-11-22T18:00Z",
-   "state": "in",
+   "state": "post",
    "abbr": "ARI",
    "opp": "KC",
    "home": false,
@@ -2966,7 +2966,7 @@
   },
   "23": {
    "date": "2026-11-22T18:00Z",
-   "state": "in",
+   "state": "post",
    "abbr": "PIT",
    "opp": "PHI",
    "home": false,
@@ -2974,11 +2974,11 @@
   },
   "24": {
    "date": "2026-11-22T21:05Z",
-   "state": "pre",
+   "state": "in",
    "abbr": "LAC",
    "opp": "NYJ",
    "home": true,
-   "implied": 23.3
+   "implied": null
   },
   "25": {
    "date": "2026-11-23T01:20Z",
@@ -2990,7 +2990,7 @@
   },
   "27": {
    "date": "2026-11-22T18:00Z",
-   "state": "in",
+   "state": "post",
    "abbr": "TB",
    "opp": "DET",
    "home": false,
@@ -3006,7 +3006,7 @@
   },
   "29": {
    "date": "2026-11-22T18:00Z",
-   "state": "in",
+   "state": "post",
    "abbr": "CAR",
    "opp": "BAL",
    "home": true,
@@ -3014,15 +3014,15 @@
   },
   "30": {
    "date": "2026-11-22T21:25Z",
-   "state": "pre",
+   "state": "in",
    "abbr": "JAX",
    "opp": "NYG",
    "home": false,
-   "implied": 25.8
+   "implied": null
   },
   "33": {
    "date": "2026-11-22T18:00Z",
-   "state": "in",
+   "state": "post",
    "abbr": "BAL",
    "opp": "CAR",
    "home": false,
