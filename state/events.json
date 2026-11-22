@@ -1437,5 +1437,40 @@
   "mine": true,
   "pct1": -0.149,
   "pct7": -0.283
+ },
+ {
+  "key": "inj:4428850:11:OUT>INJURY_RESERVE",
+  "at": "2026-11-22T00:15:05.628Z",
+  "type": "injury",
+  "id": "4428850",
+  "name": "Dontayvion Wicks",
+  "pos": "WR",
+  "teamId": 6,
+  "mine": false,
+  "starter": false,
+  "from": "OUT",
+  "to": "INJURY_RESERVE"
+ },
+ {
+  "key": "inj:4430737:11:ACTIVE>QUESTIONABLE",
+  "at": "2026-11-22T00:15:05.628Z",
+  "type": "injury",
+  "id": "4430737",
+  "name": "Kyren Williams",
+  "pos": "RB",
+  "teamId": 10,
+  "mine": false,
+  "starter": false,
+  "from": "ACTIVE",
+  "to": "QUESTIONABLE"
+ },
+ {
+  "key": "trend:11394:2026-11-22",
+  "at": "2026-11-22T00:15:05.628Z",
+  "type": "trending",
+  "id": "11394",
+  "name": "Josh Johnson",
+  "mine": false,
+  "adds24h": 18555
  }
 ]

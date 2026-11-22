@@ -1,5 +1,5 @@
 {
- "at": "2026-11-21T20:01:27.584Z",
+ "at": "2026-11-22T00:15:05.628Z",
  "myTeamId": 1,
  "week": 11,
  "slots": {
@@ -1353,7 +1353,7 @@
     "pos": "WR",
     "slot": "BE",
     "pro": 21,
-    "inj": "OUT",
+    "inj": "INJURY_RESERVE",
     "proj": 0
    },
    {
@@ -1962,7 +1962,7 @@
     "pos": "RB",
     "slot": "BE",
     "pro": 14,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 0
    },
    {
@@ -2874,7 +2874,7 @@
    "abbr": "DET",
    "opp": "TB",
    "home": true,
-   "implied": 25.5
+   "implied": 26
   },
   "10": {
    "date": "2026-11-22T18:00Z",
@@ -2922,7 +2922,7 @@
    "abbr": "MIN",
    "opp": "SF",
    "home": false,
-   "implied": 21.8
+   "implied": 21.5
   },
   "18": {
    "date": "2026-11-22T18:00Z",
@@ -2986,7 +2986,7 @@
    "abbr": "SF",
    "opp": "MIN",
    "home": true,
-   "implied": 24.8
+   "implied": 25
   },
   "27": {
    "date": "2026-11-22T18:00Z",
@@ -2994,7 +2994,7 @@
    "abbr": "TB",
    "opp": "DET",
    "home": false,
-   "implied": 21
+   "implied": 21.5
   },
   "28": {
    "date": "2026-11-24T01:15Z",
