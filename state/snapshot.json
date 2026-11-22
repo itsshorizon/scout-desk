@@ -1,5 +1,5 @@
 {
- "at": "2026-11-22T00:15:05.628Z",
+ "at": "2026-11-22T06:33:59.511Z",
  "myTeamId": 1,
  "week": 11,
  "slots": {
@@ -2874,7 +2874,7 @@
    "abbr": "DET",
    "opp": "TB",
    "home": true,
-   "implied": 26
+   "implied": 25.5
   },
   "10": {
    "date": "2026-11-22T18:00Z",
@@ -2922,7 +2922,7 @@
    "abbr": "MIN",
    "opp": "SF",
    "home": false,
-   "implied": 21.5
+   "implied": 21.8
   },
   "18": {
    "date": "2026-11-22T18:00Z",
@@ -2938,7 +2938,7 @@
    "abbr": "NYG",
    "opp": "JAX",
    "home": true,
-   "implied": 20.3
+   "implied": 19.8
   },
   "20": {
    "date": "2026-11-22T21:05Z",
@@ -2946,7 +2946,7 @@
    "abbr": "NYJ",
    "opp": "LAC",
    "home": false,
-   "implied": 19.8
+   "implied": 19.3
   },
   "21": {
    "date": "2026-11-22T18:00Z",
@@ -2978,7 +2978,7 @@
    "abbr": "LAC",
    "opp": "NYJ",
    "home": true,
-   "implied": 22.8
+   "implied": 22.3
   },
   "25": {
    "date": "2026-11-23T01:20Z",
@@ -2986,7 +2986,7 @@
    "abbr": "SF",
    "opp": "MIN",
    "home": true,
-   "implied": 25
+   "implied": 24.8
   },
   "27": {
    "date": "2026-11-22T18:00Z",
@@ -2994,7 +2994,7 @@
    "abbr": "TB",
    "opp": "DET",
    "home": false,
-   "implied": 21.5
+   "implied": 22
   },
   "28": {
    "date": "2026-11-24T01:15Z",
@@ -3018,7 +3018,7 @@
    "abbr": "JAX",
    "opp": "NYG",
    "home": false,
-   "implied": 26.3
+   "implied": 25.8
   },
   "33": {
    "date": "2026-11-22T18:00Z",
