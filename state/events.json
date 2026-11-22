@@ -1472,5 +1472,272 @@
   "name": "Josh Johnson",
   "mine": false,
   "adds24h": 18555
+ },
+ {
+  "key": "inj:2576925:11:QUESTIONABLE>ACTIVE",
+  "at": "2026-11-22T20:16:48.060Z",
+  "type": "injury",
+  "id": "2576925",
+  "name": "Darren Waller",
+  "pos": "TE",
+  "teamId": 1,
+  "mine": true,
+  "starter": false,
+  "from": "QUESTIONABLE",
+  "to": "ACTIVE"
+ },
+ {
+  "key": "inj:3052587:11:QUESTIONABLE>ACTIVE",
+  "at": "2026-11-22T20:16:48.060Z",
+  "type": "injury",
+  "id": "3052587",
+  "name": "Baker Mayfield",
+  "pos": "QB",
+  "teamId": 6,
+  "mine": false,
+  "starter": false,
+  "from": "QUESTIONABLE",
+  "to": "ACTIVE"
+ },
+ {
+  "key": "inj:3929645:11:ACTIVE>QUESTIONABLE",
+  "at": "2026-11-22T20:16:48.060Z",
+  "type": "injury",
+  "id": "3929645",
+  "name": "Juwan Johnson",
+  "pos": "TE",
+  "teamId": 7,
+  "mine": false,
+  "starter": true,
+  "from": "ACTIVE",
+  "to": "QUESTIONABLE"
+ },
+ {
+  "key": "inj:4241263:11:QUESTIONABLE>ACTIVE",
+  "at": "2026-11-22T20:16:48.060Z",
+  "type": "injury",
+  "id": "4241263",
+  "name": "Charlie Kolar",
+  "pos": "TE",
+  "teamId": 10,
+  "mine": false,
+  "starter": false,
+  "from": "QUESTIONABLE",
+  "to": "ACTIVE"
+ },
+ {
+  "key": "inj:4372780:11:QUESTIONABLE>ACTIVE",
+  "at": "2026-11-22T20:16:48.060Z",
+  "type": "injury",
+  "id": "4372780",
+  "name": "Tommy Tremble",
+  "pos": "TE",
+  "teamId": 13,
+  "mine": false,
+  "starter": false,
+  "from": "QUESTIONABLE",
+  "to": "ACTIVE"
+ },
+ {
+  "key": "inj:4385690:11:DOUBTFUL>OUT",
+  "at": "2026-11-22T20:16:48.060Z",
+  "type": "injury",
+  "id": "4385690",
+  "name": "Dalton Kincaid",
+  "pos": "TE",
+  "teamId": 12,
+  "mine": false,
+  "starter": true,
+  "from": "DOUBTFUL",
+  "to": "OUT"
+ },
+ {
+  "key": "inj:4431492:11:QUESTIONABLE>ACTIVE",
+  "at": "2026-11-22T20:16:48.060Z",
+  "type": "injury",
+  "id": "4431492",
+  "name": "Roman Wilson",
+  "pos": "WR",
+  "teamId": 1,
+  "mine": true,
+  "starter": false,
+  "from": "QUESTIONABLE",
+  "to": "ACTIVE"
+ },
+ {
+  "key": "inj:4431588:11:ACTIVE>OUT",
+  "at": "2026-11-22T20:16:48.060Z",
+  "type": "injury",
+  "id": "4431588",
+  "name": "Ja'Tavion Sanders",
+  "pos": "TE",
+  "teamId": 14,
+  "mine": false,
+  "starter": false,
+  "from": "ACTIVE",
+  "to": "OUT"
+ },
+ {
+  "key": "inj:4432665:11:QUESTIONABLE>OUT",
+  "at": "2026-11-22T20:16:48.060Z",
+  "type": "injury",
+  "id": "4432665",
+  "name": "Brock Bowers",
+  "pos": "TE",
+  "teamId": 6,
+  "mine": false,
+  "starter": false,
+  "from": "QUESTIONABLE",
+  "to": "OUT"
+ },
+ {
+  "key": "inj:4569682:11:ACTIVE>OUT",
+  "at": "2026-11-22T20:16:48.060Z",
+  "type": "injury",
+  "id": "4569682",
+  "name": "Audric Estime",
+  "pos": "RB",
+  "teamId": 5,
+  "mine": false,
+  "starter": false,
+  "from": "ACTIVE",
+  "to": "OUT"
+ },
+ {
+  "key": "inj:4612826:11:QUESTIONABLE>ACTIVE",
+  "at": "2026-11-22T20:16:48.060Z",
+  "type": "injury",
+  "id": "4612826",
+  "name": "Ladd McConkey",
+  "pos": "WR",
+  "teamId": 14,
+  "mine": false,
+  "starter": true,
+  "from": "QUESTIONABLE",
+  "to": "ACTIVE"
+ },
+ {
+  "key": "inj:4871023:11:QUESTIONABLE>ACTIVE",
+  "at": "2026-11-22T20:16:48.060Z",
+  "type": "injury",
+  "id": "4871023",
+  "name": "Carnell Tate",
+  "pos": "WR",
+  "teamId": 1,
+  "mine": true,
+  "starter": true,
+  "from": "QUESTIONABLE",
+  "to": "ACTIVE"
+ },
+ {
+  "key": "inj:4912274:11:QUESTIONABLE>ACTIVE",
+  "at": "2026-11-22T20:16:48.060Z",
+  "type": "injury",
+  "id": "4912274",
+  "name": "Sione Vaki",
+  "pos": "RB",
+  "teamId": 9,
+  "mine": false,
+  "starter": false,
+  "from": "QUESTIONABLE",
+  "to": "ACTIVE"
+ },
+ {
+  "key": "txn:87298d28-343f-4ce7-963c-3695675be52b",
+  "at": "2026-11-22T20:16:48.060Z",
+  "type": "move",
+  "teamId": 13,
+  "mine": false,
+  "bid": null,
+  "adds": [
+   {
+    "id": "4567156",
+    "name": "Treylon Burks",
+    "teamId": 13
+   }
+  ],
+  "drops": [
+   {
+    "id": "4690923",
+    "name": "Ben Sinnott",
+    "teamId": 13
+   }
+  ],
+  "trades": [],
+  "touchesMyPlayer": false
+ },
+ {
+  "key": "txn:47599709-06e3-45a4-bdbf-7dd05f154e0c",
+  "at": "2026-11-22T20:16:48.060Z",
+  "type": "move",
+  "teamId": 9,
+  "mine": false,
+  "bid": null,
+  "adds": [
+   {
+    "id": "4819231",
+    "name": "Kaleb Johnson",
+    "teamId": 9
+   }
+  ],
+  "drops": [
+   {
+    "id": "4430656",
+    "name": "Myles Price",
+    "teamId": 9
+   }
+  ],
+  "trades": [],
+  "touchesMyPlayer": false
+ },
+ {
+  "key": "news:2576925:2026-11-22T16:40:27Z",
+  "at": "2026-11-22T20:16:48.060Z",
+  "type": "news",
+  "id": "2576925",
+  "name": "Darren Waller",
+  "mine": true,
+  "headline": "Waller (knee) is listed as active Sunday against the Ravens, Darin Gantt of the Panthers' official site reports.",
+  "when": "2026-11-22T16:40:27Z"
+ },
+ {
+  "key": "news:4431492:2026-11-22T16:49:53Z",
+  "at": "2026-11-22T20:16:48.060Z",
+  "type": "news",
+  "id": "4431492",
+  "name": "Roman Wilson",
+  "mine": true,
+  "headline": "Wilson (hand/finger) is active for Sunday's game against the Eagles.",
+  "when": "2026-11-22T16:49:53Z"
+ },
+ {
+  "key": "news:4871023:2026-11-22T16:33:56Z",
+  "at": "2026-11-22T20:16:48.060Z",
+  "type": "news",
+  "id": "4871023",
+  "name": "Carnell Tate",
+  "mine": true,
+  "headline": "Tate (shoulder) is listed as active for Sunday's game against the Cowboys.",
+  "when": "2026-11-22T16:33:56Z"
+ },
+ {
+  "key": "value:4431492:2026-11-22",
+  "at": "2026-11-22T20:16:48.060Z",
+  "type": "value",
+  "id": "4431492",
+  "name": "Roman Wilson",
+  "mine": true,
+  "pct1": 0.248,
+  "pct7": -0.087
+ },
+ {
+  "key": "value:4685415:2026-11-22",
+  "at": "2026-11-22T20:16:48.060Z",
+  "type": "value",
+  "id": "4685415",
+  "name": "Travis Hunter",
+  "mine": true,
+  "pct1": -0.106,
+  "pct7": -0.063
  }
 ]
