@@ -1,5 +1,5 @@
 {
- "at": "2026-11-22T21:54:38.122Z",
+ "at": "2026-11-23T01:32:07.115Z",
  "myTeamId": 1,
  "week": 11,
  "slots": {
@@ -481,7 +481,7 @@
     "pos": "RB",
     "slot": "FLEX",
     "pro": 24,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 6.6
    },
    {
@@ -589,7 +589,7 @@
     "pos": "QB",
     "slot": "BE",
     "pro": 24,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 17.1
    }
   ],
@@ -654,7 +654,7 @@
     "pos": "WR",
     "slot": "FLEX",
     "pro": 25,
-    "inj": "QUESTIONABLE",
+    "inj": "ACTIVE",
     "proj": 11.5
    },
    {
@@ -1935,7 +1935,7 @@
     "pos": "RB",
     "slot": "RB",
     "pro": 21,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 12
    },
    {
@@ -2569,7 +2569,7 @@
     "pos": "WR",
     "slot": "BE",
     "pro": 25,
-    "inj": "ACTIVE",
+    "inj": "OUT",
     "proj": 0
    },
    {
@@ -2862,7 +2862,7 @@
   },
   "7": {
    "date": "2026-11-22T21:25Z",
-   "state": "in",
+   "state": "post",
    "abbr": "DEN",
    "opp": "LV",
    "home": true,
@@ -2902,7 +2902,7 @@
   },
   "13": {
    "date": "2026-11-22T21:25Z",
-   "state": "in",
+   "state": "post",
    "abbr": "LV",
    "opp": "DEN",
    "home": false,
@@ -2918,11 +2918,11 @@
   },
   "16": {
    "date": "2026-11-23T01:20Z",
-   "state": "pre",
+   "state": "in",
    "abbr": "MIN",
    "opp": "SF",
    "home": false,
-   "implied": 21.5
+   "implied": null
   },
   "18": {
    "date": "2026-11-22T18:00Z",
@@ -2934,7 +2934,7 @@
   },
   "19": {
    "date": "2026-11-22T21:25Z",
-   "state": "in",
+   "state": "post",
    "abbr": "NYG",
    "opp": "JAX",
    "home": true,
@@ -2942,7 +2942,7 @@
   },
   "20": {
    "date": "2026-11-22T21:05Z",
-   "state": "in",
+   "state": "post",
    "abbr": "NYJ",
    "opp": "LAC",
    "home": false,
@@ -2974,7 +2974,7 @@
   },
   "24": {
    "date": "2026-11-22T21:05Z",
-   "state": "in",
+   "state": "post",
    "abbr": "LAC",
    "opp": "NYJ",
    "home": true,
@@ -2982,11 +2982,11 @@
   },
   "25": {
    "date": "2026-11-23T01:20Z",
-   "state": "pre",
+   "state": "in",
    "abbr": "SF",
    "opp": "MIN",
    "home": true,
-   "implied": 25
+   "implied": null
   },
   "27": {
    "date": "2026-11-22T18:00Z",
@@ -3014,7 +3014,7 @@
   },
   "30": {
    "date": "2026-11-22T21:25Z",
-   "state": "in",
+   "state": "post",
    "abbr": "JAX",
    "opp": "NYG",
    "home": false,
