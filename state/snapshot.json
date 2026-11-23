@@ -1,5 +1,5 @@
 {
- "at": "2026-11-23T02:54:26.746Z",
+ "at": "2026-11-23T07:23:45.245Z",
  "myTeamId": 1,
  "week": 11,
  "slots": {
@@ -2918,7 +2918,7 @@
   },
   "16": {
    "date": "2026-11-23T01:20Z",
-   "state": "in",
+   "state": "post",
    "abbr": "MIN",
    "opp": "SF",
    "home": false,
@@ -2982,7 +2982,7 @@
   },
   "25": {
    "date": "2026-11-23T01:20Z",
-   "state": "in",
+   "state": "post",
    "abbr": "SF",
    "opp": "MIN",
    "home": true,
