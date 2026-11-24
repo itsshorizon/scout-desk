@@ -1,5 +1,5 @@
 {
- "at": "2026-11-23T07:53:54.243Z",
+ "at": "2026-11-24T00:43:31.154Z",
  "myTeamId": 1,
  "week": 11,
  "slots": {
@@ -353,7 +353,7 @@
     "pos": "WR",
     "slot": "IR",
     "pro": 25,
-    "inj": "OUT",
+    "inj": "ACTIVE",
     "proj": null
    },
    {
@@ -618,7 +618,7 @@
     "pos": "RB",
     "slot": "RB",
     "pro": 30,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 16.9
    },
    {
@@ -1081,7 +1081,7 @@
     "pos": "TE",
     "slot": "TE",
     "pro": 21,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 10.3
    },
    {
@@ -1162,7 +1162,7 @@
     "pos": "RB",
     "slot": "BE",
     "pro": 11,
-    "inj": "QUESTIONABLE",
+    "inj": "OUT",
     "proj": 5.3
    },
    {
@@ -1243,7 +1243,7 @@
     "pos": "RB",
     "slot": "BE",
     "pro": 18,
-    "inj": "OUT",
+    "inj": "ACTIVE",
     "proj": 0
    }
   ],
@@ -1962,7 +1962,7 @@
     "pos": "RB",
     "slot": "BE",
     "pro": 14,
-    "inj": "QUESTIONABLE",
+    "inj": "ACTIVE",
     "proj": 0
    },
    {
@@ -2061,7 +2061,7 @@
     "pos": "RB",
     "slot": "BE",
     "pro": 26,
-    "inj": "QUESTIONABLE",
+    "inj": "INJURY_RESERVE",
     "proj": 0
    },
    {
@@ -2234,7 +2234,7 @@
     "pos": "RB",
     "slot": "BE",
     "pro": 28,
-    "inj": "INJURY_RESERVE",
+    "inj": "ACTIVE",
     "proj": 7.5
    },
    {
@@ -2270,7 +2270,7 @@
     "pos": "WR",
     "slot": "FLEX",
     "pro": 29,
-    "inj": "QUESTIONABLE",
+    "inj": "ACTIVE",
     "proj": 8.8
    },
    {
@@ -2569,7 +2569,7 @@
     "pos": "WR",
     "slot": "BE",
     "pro": 25,
-    "inj": "OUT",
+    "inj": "ACTIVE",
     "proj": 0
    },
    {
@@ -2643,7 +2643,7 @@
     "pos": "TE",
     "slot": "TE",
     "pro": 8,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 11.3
    },
    {
@@ -2679,7 +2679,7 @@
     "pos": "RB",
     "slot": "RB",
     "pro": 28,
-    "inj": "QUESTIONABLE",
+    "inj": "ACTIVE",
     "proj": 7.7
    },
    {
@@ -2733,7 +2733,7 @@
     "pos": "TE",
     "slot": "BE",
     "pro": 29,
-    "inj": "OUT",
+    "inj": "ACTIVE",
     "proj": 0
    },
    {
@@ -2850,7 +2850,7 @@
    "abbr": "CIN",
    "opp": "WSH",
    "home": false,
-   "implied": 30.3
+   "implied": 30.5
   },
   "6": {
    "date": "2026-11-22T18:00Z",
@@ -3002,7 +3002,7 @@
    "abbr": "WSH",
    "opp": "CIN",
    "home": true,
-   "implied": 24.3
+   "implied": 24
   },
   "29": {
    "date": "2026-11-22T18:00Z",
