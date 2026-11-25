@@ -2669,5 +2669,40 @@
   "mine": true,
   "pct1": -0.098,
   "pct7": -0.198
+ },
+ {
+  "key": "inj:3121023:12:QUESTIONABLE>ACTIVE",
+  "at": "2026-11-25T05:22:25.212Z",
+  "type": "injury",
+  "id": "3121023",
+  "name": "Dallas Goedert",
+  "pos": "TE",
+  "teamId": 5,
+  "mine": false,
+  "starter": true,
+  "from": "QUESTIONABLE",
+  "to": "ACTIVE"
+ },
+ {
+  "key": "inj:3929630:12:QUESTIONABLE>ACTIVE",
+  "at": "2026-11-25T05:22:25.212Z",
+  "type": "injury",
+  "id": "3929630",
+  "name": "Saquon Barkley",
+  "pos": "RB",
+  "teamId": 10,
+  "mine": false,
+  "starter": true,
+  "from": "QUESTIONABLE",
+  "to": "ACTIVE"
+ },
+ {
+  "key": "trend:3116407:2026-11-25",
+  "at": "2026-11-25T05:22:25.212Z",
+  "type": "trending",
+  "id": "3116407",
+  "name": "Mason Rudolph",
+  "mine": false,
+  "adds24h": 82800
  }
 ]

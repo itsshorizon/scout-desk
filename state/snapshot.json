@@ -1,5 +1,5 @@
 {
- "at": "2026-11-24T22:58:26.324Z",
+ "at": "2026-11-25T05:22:25.212Z",
  "myTeamId": 1,
  "week": 12,
  "slots": {
@@ -1081,7 +1081,7 @@
     "pos": "TE",
     "slot": "TE",
     "pro": 21,
-    "inj": "QUESTIONABLE",
+    "inj": "ACTIVE",
     "proj": 10.2
    },
    {
@@ -1935,7 +1935,7 @@
     "pos": "RB",
     "slot": "RB",
     "pro": 21,
-    "inj": "QUESTIONABLE",
+    "inj": "ACTIVE",
     "proj": 14.2
    },
    {
@@ -2850,7 +2850,7 @@
    "abbr": "CHI",
    "opp": "DET",
    "home": false,
-   "implied": 29
+   "implied": 28.5
   },
   "4": {
    "date": "2026-11-29T18:00Z",
@@ -2874,7 +2874,7 @@
    "abbr": "DAL",
    "opp": "PHI",
    "home": true,
-   "implied": 28
+   "implied": 28.5
   },
   "7": {
    "date": "2026-11-27T20:00Z",
@@ -2882,7 +2882,7 @@
    "abbr": "DEN",
    "opp": "PIT",
    "home": false,
-   "implied": 20.8
+   "implied": 20
   },
   "8": {
    "date": "2026-11-26T18:00Z",
@@ -2890,7 +2890,7 @@
    "abbr": "DET",
    "opp": "CHI",
    "home": true,
-   "implied": 26.5
+   "implied": 27
   },
   "9": {
    "date": "2026-11-26T01:00Z",
@@ -2906,7 +2906,7 @@
    "abbr": "TEN",
    "opp": "JAX",
    "home": false,
-   "implied": 16.5
+   "implied": 17
   },
   "11": {
    "date": "2026-11-29T18:00Z",
@@ -2994,7 +2994,7 @@
    "abbr": "PHI",
    "opp": "DAL",
    "home": false,
-   "implied": 19.5
+   "implied": 20
   },
   "22": {
    "date": "2026-11-29T21:25Z",
@@ -3010,7 +3010,7 @@
    "abbr": "PIT",
    "opp": "DEN",
    "home": true,
-   "implied": 17.8
+   "implied": 16.5
   },
   "24": {
    "date": "2026-11-29T21:05Z",
@@ -3026,7 +3026,7 @@
    "abbr": "SF",
    "opp": "SEA",
    "home": true,
-   "implied": 24.8
+   "implied": 24.5
   },
   "26": {
    "date": "2026-11-29T21:25Z",
@@ -3034,7 +3034,7 @@
    "abbr": "SEA",
    "opp": "SF",
    "home": false,
-   "implied": 21.8
+   "implied": 21
   },
   "27": {
    "date": "2026-12-01T01:15Z",
@@ -3066,7 +3066,7 @@
    "abbr": "JAX",
    "opp": "TEN",
    "home": true,
-   "implied": 31
+   "implied": 31.5
   },
   "33": {
    "date": "2026-11-29T18:00Z",
@@ -3074,7 +3074,7 @@
    "abbr": "BAL",
    "opp": "HOU",
    "home": false,
-   "implied": 20.5
+   "implied": 20.3
   },
   "34": {
    "date": "2026-11-29T18:00Z",
@@ -3082,7 +3082,7 @@
    "abbr": "HOU",
    "opp": "BAL",
    "home": true,
-   "implied": 27
+   "implied": 27.3
   }
  }
 }
