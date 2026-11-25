@@ -1,5 +1,5 @@
 {
- "at": "2026-11-25T05:22:25.212Z",
+ "at": "2026-11-25T08:18:55.325Z",
  "myTeamId": 1,
  "week": 12,
  "slots": {
@@ -2842,7 +2842,7 @@
    "abbr": "BUF",
    "opp": "KC",
    "home": true,
-   "implied": 25.3
+   "implied": 24.8
   },
   "3": {
    "date": "2026-11-26T18:00Z",
@@ -2898,7 +2898,7 @@
    "abbr": "GB",
    "opp": "LAR",
    "home": false,
-   "implied": 20.5
+   "implied": 21
   },
   "10": {
    "date": "2026-11-29T18:00Z",
@@ -2922,7 +2922,7 @@
    "abbr": "KC",
    "opp": "BUF",
    "home": false,
-   "implied": 22.3
+   "implied": 21.8
   },
   "13": {
    "date": "2026-11-30T01:20Z",
@@ -2938,7 +2938,7 @@
    "abbr": "LAR",
    "opp": "GB",
    "home": true,
-   "implied": 23
+   "implied": 23.5
   },
   "15": {
    "date": "2026-11-29T18:00Z",
@@ -3026,7 +3026,7 @@
    "abbr": "SF",
    "opp": "SEA",
    "home": true,
-   "implied": 24.5
+   "implied": 24.3
   },
   "26": {
    "date": "2026-11-29T21:25Z",
@@ -3034,7 +3034,7 @@
    "abbr": "SEA",
    "opp": "SF",
    "home": false,
-   "implied": 21
+   "implied": 21.3
   },
   "27": {
    "date": "2026-12-01T01:15Z",
