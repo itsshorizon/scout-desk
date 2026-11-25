@@ -1,5 +1,5 @@
 {
- "at": "2026-11-25T08:18:55.325Z",
+ "at": "2026-11-25T22:22:48.073Z",
  "myTeamId": 1,
  "week": 12,
  "slots": {
@@ -173,8 +173,8 @@
     "pos": "RB",
     "slot": "IR",
     "pro": 12,
-    "inj": "QUESTIONABLE",
-    "proj": 21.4
+    "inj": "OUT",
+    "proj": 0
    },
    {
     "id": "4361370",
@@ -246,7 +246,7 @@
     "slot": "RB",
     "pro": 7,
     "inj": "ACTIVE",
-    "proj": 16
+    "proj": 16.9
    },
    {
     "id": "4362619",
@@ -264,7 +264,7 @@
     "slot": "BE",
     "pro": 23,
     "inj": "ACTIVE",
-    "proj": 6.4
+    "proj": 6.6
    },
    {
     "id": "2573401",
@@ -283,15 +283,6 @@
     "pro": 29,
     "inj": "ACTIVE",
     "proj": 8.6
-   },
-   {
-    "id": "8439",
-    "name": "Aaron Rodgers",
-    "pos": "QB",
-    "slot": "BE",
-    "pro": 23,
-    "inj": "ACTIVE",
-    "proj": 17.2
    },
    {
     "id": "4360689",
@@ -351,7 +342,7 @@
     "id": "4360438",
     "name": "Brandon Aiyuk",
     "pos": "WR",
-    "slot": "IR",
+    "slot": "BE",
     "pro": 0,
     "inj": "ACTIVE",
     "proj": null
@@ -446,7 +437,7 @@
     "slot": "WR",
     "pro": 12,
     "inj": "ACTIVE",
-    "proj": 5.9
+    "proj": 6.6
    },
    {
     "id": "4362249",
@@ -463,7 +454,7 @@
     "pos": "TE",
     "slot": "FLEX",
     "pro": 19,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 14.6
    },
    {
@@ -636,7 +627,7 @@
     "pos": "TE",
     "slot": "TE",
     "pro": 5,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 13.2
    },
    {
@@ -654,7 +645,7 @@
     "pos": "WR",
     "slot": "FLEX",
     "pro": 25,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 14.9
    },
    {
@@ -691,7 +682,7 @@
     "slot": "FLEX",
     "pro": 23,
     "inj": "ACTIVE",
-    "proj": 9
+    "proj": 9.1
    },
    {
     "id": "2977187",
@@ -846,7 +837,7 @@
     "slot": "WR",
     "pro": 12,
     "inj": "ACTIVE",
-    "proj": 10.4
+    "proj": 11
    },
    {
     "id": "3917315",
@@ -873,7 +864,7 @@
     "slot": "WR",
     "pro": 7,
     "inj": "ACTIVE",
-    "proj": 8
+    "proj": 7.4
    },
    {
     "id": "4241985",
@@ -881,8 +872,8 @@
     "pos": "RB",
     "slot": "BE",
     "pro": 7,
-    "inj": "OUT",
-    "proj": 3.4
+    "inj": "SUSPENSION",
+    "proj": 0
    },
    {
     "id": "4036133",
@@ -954,7 +945,7 @@
     "slot": "BE",
     "pro": 23,
     "inj": "ACTIVE",
-    "proj": 6.5
+    "proj": 6.7
    },
    {
     "id": "4429086",
@@ -981,7 +972,7 @@
     "slot": "BE",
     "pro": 7,
     "inj": "ACTIVE",
-    "proj": 3.2
+    "proj": 2.7
    },
    {
     "id": "4241372",
@@ -1261,7 +1252,7 @@
     "id": "4432665",
     "name": "Brock Bowers",
     "pos": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "pro": 13,
     "inj": "QUESTIONABLE",
     "proj": 17.9
@@ -1315,7 +1306,7 @@
     "id": "4371733",
     "name": "Kenny Gainwell",
     "pos": "RB",
-    "slot": "RB",
+    "slot": "BE",
     "pro": 27,
     "inj": "ACTIVE",
     "proj": 9.2
@@ -1324,7 +1315,7 @@
     "id": "4426385",
     "name": "Zach Charbonnet",
     "pos": "RB",
-    "slot": "BE",
+    "slot": "RB",
     "pro": 26,
     "inj": "ACTIVE",
     "proj": 11.7
@@ -1342,7 +1333,7 @@
     "id": "4595342",
     "name": "Oronde Gadsden",
     "pos": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "pro": 24,
     "inj": "ACTIVE",
     "proj": 2.9
@@ -1432,7 +1423,7 @@
     "id": "3051876",
     "name": "Evan Engram",
     "pos": "TE",
-    "slot": "FLEX",
+    "slot": "BE",
     "pro": 7,
     "inj": "ACTIVE",
     "proj": 8.1
@@ -1450,7 +1441,7 @@
     "id": "4572680",
     "name": "Tucker Kraft",
     "pos": "TE",
-    "slot": "BE",
+    "slot": "FLEX",
     "pro": 9,
     "inj": "ACTIVE",
     "proj": 11.3
@@ -1462,7 +1453,7 @@
     "slot": "FLEX",
     "pro": 12,
     "inj": "ACTIVE",
-    "proj": 7.6
+    "proj": 8.3
    },
    {
     "id": "3052587",
@@ -1517,7 +1508,7 @@
     "pos": "TE",
     "slot": "BE",
     "pro": 6,
-    "inj": "DOUBTFUL",
+    "inj": "OUT",
     "proj": 0
    },
    {
@@ -1536,7 +1527,7 @@
     "slot": "BE",
     "pro": 23,
     "inj": "INJURY_RESERVE",
-    "proj": 4.5
+    "proj": 4.7
    },
    {
     "id": "3139477",
@@ -1545,7 +1536,7 @@
     "slot": "QB",
     "pro": 12,
     "inj": "ACTIVE",
-    "proj": 20.7
+    "proj": 20.9
    },
    {
     "id": "4241416",
@@ -1718,13 +1709,13 @@
     "slot": "TE",
     "pro": 3,
     "inj": "ACTIVE",
-    "proj": 12.6
+    "proj": 12.7
    },
    {
     "id": "4567750",
     "name": "Emeka Egbuka",
     "pos": "WR",
-    "slot": "BE",
+    "slot": "FLEX",
     "pro": 27,
     "inj": "ACTIVE",
     "proj": 10.3
@@ -1733,7 +1724,7 @@
     "id": "4685512",
     "name": "Jadarian Price",
     "pos": "RB",
-    "slot": "FLEX",
+    "slot": "BE",
     "pro": 26,
     "inj": "ACTIVE",
     "proj": 8
@@ -1745,7 +1736,7 @@
     "slot": "QB",
     "pro": 3,
     "inj": "ACTIVE",
-    "proj": 18.3
+    "proj": 18.4
    },
    {
     "id": "4360078",
@@ -1799,7 +1790,7 @@
     "slot": "FLEX",
     "pro": 12,
     "inj": "ACTIVE",
-    "proj": 7.5
+    "proj": 17.6
    },
    {
     "id": "4600981",
@@ -1916,7 +1907,7 @@
     "slot": "BE",
     "pro": 12,
     "inj": "ACTIVE",
-    "proj": 3.4
+    "proj": 5.2
    },
    {
     "id": "4819231",
@@ -1972,7 +1963,7 @@
     "slot": "WR",
     "pro": 7,
     "inj": "ACTIVE",
-    "proj": 10.2
+    "proj": 10.1
    },
    {
     "id": "4360248",
@@ -2043,7 +2034,7 @@
     "pos": "WR",
     "slot": "BE",
     "pro": 1,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 7.4
    },
    {
@@ -2053,7 +2044,7 @@
     "slot": "TE",
     "pro": 23,
     "inj": "ACTIVE",
-    "proj": 7
+    "proj": 7.1
    },
    {
     "id": "4429835",
@@ -2189,7 +2180,7 @@
     "pos": "WR",
     "slot": "WR",
     "pro": 29,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 13.4
    },
    {
@@ -2216,7 +2207,7 @@
     "pos": "QB",
     "slot": "QB",
     "pro": 25,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 22.2
    },
    {
@@ -2389,7 +2380,7 @@
     "pos": "RB",
     "slot": "FLEX",
     "pro": 33,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 14.5
    },
    {
@@ -2435,7 +2426,7 @@
     "slot": "BE",
     "pro": 23,
     "inj": "ACTIVE",
-    "proj": 9.6
+    "proj": 9.9
    },
    {
     "id": "3916148",
@@ -2661,7 +2652,7 @@
     "pos": "WR",
     "slot": "WR",
     "pro": 28,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 12.6
    },
    {
@@ -2670,14 +2661,14 @@
     "pos": "WR",
     "slot": "FLEX",
     "pro": 30,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 12.4
    },
    {
     "id": "4697815",
     "name": "Rachaad White",
     "pos": "RB",
-    "slot": "RB",
+    "slot": "BE",
     "pro": 28,
     "inj": "ACTIVE",
     "proj": 1.7
@@ -2704,7 +2695,7 @@
     "id": "5081397",
     "name": "Dylan Sampson",
     "pos": "RB",
-    "slot": "BE",
+    "slot": "FLEX",
     "pro": 5,
     "inj": "ACTIVE",
     "proj": 11.4
@@ -2749,7 +2740,7 @@
     "id": "4362478",
     "name": "Emari Demercado",
     "pos": "RB",
-    "slot": "FLEX",
+    "slot": "BE",
     "pro": 34,
     "inj": "ACTIVE",
     "proj": 0
@@ -2785,7 +2776,7 @@
     "id": "4685702",
     "name": "Quinshon Judkins",
     "pos": "RB",
-    "slot": "BE",
+    "slot": "RB",
     "pro": 5,
     "inj": "ACTIVE",
     "proj": 15.3
@@ -2858,7 +2849,7 @@
    "abbr": "CIN",
    "opp": "NO",
    "home": true,
-   "implied": 30.3
+   "implied": 29.8
   },
   "5": {
    "date": "2026-11-30T01:20Z",
@@ -2866,7 +2857,7 @@
    "abbr": "CLE",
    "opp": "LV",
    "home": true,
-   "implied": 22.5
+   "implied": 22
   },
   "6": {
    "date": "2026-11-26T21:30Z",
@@ -2874,7 +2865,7 @@
    "abbr": "DAL",
    "opp": "PHI",
    "home": true,
-   "implied": 28.5
+   "implied": 28
   },
   "7": {
    "date": "2026-11-27T20:00Z",
@@ -2898,7 +2889,7 @@
    "abbr": "GB",
    "opp": "LAR",
    "home": false,
-   "implied": 21
+   "implied": 20.5
   },
   "10": {
    "date": "2026-11-29T18:00Z",
@@ -2930,7 +2921,7 @@
    "abbr": "LV",
    "opp": "CLE",
    "home": false,
-   "implied": 18
+   "implied": 17.5
   },
   "14": {
    "date": "2026-11-26T01:00Z",
@@ -2938,7 +2929,7 @@
    "abbr": "LAR",
    "opp": "GB",
    "home": true,
-   "implied": 23.5
+   "implied": 23
   },
   "15": {
    "date": "2026-11-29T18:00Z",
@@ -2962,7 +2953,7 @@
    "abbr": "NE",
    "opp": "LAC",
    "home": false,
-   "implied": 17
+   "implied": 18.5
   },
   "18": {
    "date": "2026-11-29T18:00Z",
@@ -2970,7 +2961,7 @@
    "abbr": "NO",
    "opp": "CIN",
    "home": false,
-   "implied": 20.3
+   "implied": 19.8
   },
   "19": {
    "date": "2026-11-29T18:00Z",
@@ -2994,7 +2985,7 @@
    "abbr": "PHI",
    "opp": "DAL",
    "home": false,
-   "implied": 20
+   "implied": 19.5
   },
   "22": {
    "date": "2026-11-29T21:25Z",
@@ -3018,7 +3009,7 @@
    "abbr": "LAC",
    "opp": "NE",
    "home": true,
-   "implied": 18.5
+   "implied": 17
   },
   "25": {
    "date": "2026-11-29T21:25Z",
@@ -3026,7 +3017,7 @@
    "abbr": "SF",
    "opp": "SEA",
    "home": true,
-   "implied": 24.3
+   "implied": 23.5
   },
   "26": {
    "date": "2026-11-29T21:25Z",
@@ -3034,7 +3025,7 @@
    "abbr": "SEA",
    "opp": "SF",
    "home": false,
-   "implied": 21.3
+   "implied": 21
   },
   "27": {
    "date": "2026-12-01T01:15Z",
@@ -3074,7 +3065,7 @@
    "abbr": "BAL",
    "opp": "HOU",
    "home": false,
-   "implied": 20.3
+   "implied": 20.5
   },
   "34": {
    "date": "2026-11-29T18:00Z",
@@ -3082,7 +3073,7 @@
    "abbr": "HOU",
    "opp": "BAL",
    "home": true,
-   "implied": 27.3
+   "implied": 27
   }
  }
 }
