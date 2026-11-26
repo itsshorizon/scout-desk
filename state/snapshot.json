@@ -1,5 +1,5 @@
 {
- "at": "2026-11-26T08:04:10.632Z",
+ "at": "2026-11-26T22:14:24.582Z",
  "myTeamId": 1,
  "week": 12,
  "slots": {
@@ -281,7 +281,7 @@
     "pos": "TE",
     "slot": "BE",
     "pro": 29,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 8.6
    },
    {
@@ -499,7 +499,7 @@
     "pos": "WR",
     "slot": "BE",
     "pro": 33,
-    "inj": "QUESTIONABLE",
+    "inj": "ACTIVE",
     "proj": 5.7
    },
    {
@@ -1272,7 +1272,7 @@
     "pos": "WR",
     "slot": "WR",
     "pro": 30,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 17.8
    },
    {
@@ -1526,7 +1526,7 @@
     "pos": "WR",
     "slot": "BE",
     "pro": 23,
-    "inj": "INJURY_RESERVE",
+    "inj": "ACTIVE",
     "proj": 4.7
    },
    {
@@ -1708,7 +1708,7 @@
     "pos": "TE",
     "slot": "BE",
     "pro": 3,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 12.7
    },
    {
@@ -1724,7 +1724,7 @@
     "id": "4685512",
     "name": "Jadarian Price",
     "pos": "RB",
-    "slot": "BE",
+    "slot": "FLEX",
     "pro": 26,
     "inj": "ACTIVE",
     "proj": 8
@@ -1735,7 +1735,7 @@
     "pos": "QB",
     "slot": "BE",
     "pro": 3,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 18.4
    },
    {
@@ -1870,7 +1870,7 @@
     "pos": "WR",
     "slot": "WR",
     "pro": 34,
-    "inj": "QUESTIONABLE",
+    "inj": "ACTIVE",
     "proj": 6.9
    },
    {
@@ -1892,15 +1892,6 @@
     "proj": 13.4
    },
    {
-    "id": "4883647",
-    "name": "Elic Ayomanor",
-    "pos": "WR",
-    "slot": "FLEX",
-    "pro": 10,
-    "inj": "ACTIVE",
-    "proj": 6.8
-   },
-   {
     "id": "4912218",
     "name": "Cyrus Allen",
     "pos": "WR",
@@ -1917,6 +1908,15 @@
     "pro": 9,
     "inj": "ACTIVE",
     "proj": 5.4
+   },
+   {
+    "id": "4368003",
+    "name": "Andrei Iosivas",
+    "pos": "WR",
+    "slot": "BE",
+    "pro": 4,
+    "inj": "INJURY_RESERVE",
+    "proj": 4.3
    }
   ],
   "10": [
@@ -2016,7 +2016,7 @@
     "pos": "TE",
     "slot": "FLEX",
     "pro": 34,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 9.2
    },
    {
@@ -2142,7 +2142,7 @@
     "pos": "WR",
     "slot": "BE",
     "pro": 20,
-    "inj": "QUESTIONABLE",
+    "inj": "ACTIVE",
     "proj": 1
    }
   ],
@@ -2198,7 +2198,7 @@
     "pos": "WR",
     "slot": "FLEX",
     "pro": 33,
-    "inj": "QUESTIONABLE",
+    "inj": "ACTIVE",
     "proj": 14.6
    },
    {
@@ -2524,7 +2524,7 @@
     "pos": "TE",
     "slot": "BE",
     "pro": 29,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 7
    },
    {
@@ -2626,7 +2626,7 @@
     "slot": "BE",
     "pro": 14,
     "inj": "ACTIVE",
-    "proj": 19
+    "proj": 18.9
    },
    {
     "id": "4430027",
@@ -2652,7 +2652,7 @@
     "pos": "WR",
     "slot": "WR",
     "pro": 28,
-    "inj": "QUESTIONABLE",
+    "inj": "ACTIVE",
     "proj": 12.6
    },
    {
@@ -2837,11 +2837,11 @@
   },
   "3": {
    "date": "2026-11-26T18:00Z",
-   "state": "pre",
+   "state": "post",
    "abbr": "CHI",
    "opp": "DET",
    "home": false,
-   "implied": 28.5
+   "implied": null
   },
   "4": {
    "date": "2026-11-29T18:00Z",
@@ -2861,11 +2861,11 @@
   },
   "6": {
    "date": "2026-11-26T21:30Z",
-   "state": "pre",
+   "state": "in",
    "abbr": "DAL",
    "opp": "PHI",
    "home": true,
-   "implied": 28.5
+   "implied": null
   },
   "7": {
    "date": "2026-11-27T20:00Z",
@@ -2873,15 +2873,15 @@
    "abbr": "DEN",
    "opp": "PIT",
    "home": false,
-   "implied": 20
+   "implied": 20.5
   },
   "8": {
    "date": "2026-11-26T18:00Z",
-   "state": "pre",
+   "state": "post",
    "abbr": "DET",
    "opp": "CHI",
    "home": true,
-   "implied": 27
+   "implied": null
   },
   "9": {
    "date": "2026-11-26T01:00Z",
@@ -2937,7 +2937,7 @@
    "abbr": "MIA",
    "opp": "NYJ",
    "home": true,
-   "implied": 18
+   "implied": 17.5
   },
   "16": {
    "date": "2026-11-29T18:00Z",
@@ -2953,7 +2953,7 @@
    "abbr": "NE",
    "opp": "LAC",
    "home": false,
-   "implied": 18.5
+   "implied": 19
   },
   "18": {
    "date": "2026-11-29T18:00Z",
@@ -2977,15 +2977,15 @@
    "abbr": "NYJ",
    "opp": "MIA",
    "home": false,
-   "implied": 22.5
+   "implied": 22
   },
   "21": {
    "date": "2026-11-26T21:30Z",
-   "state": "pre",
+   "state": "in",
    "abbr": "PHI",
    "opp": "DAL",
    "home": false,
-   "implied": 20
+   "implied": null
   },
   "22": {
    "date": "2026-11-29T21:25Z",
@@ -2993,7 +2993,7 @@
    "abbr": "ARI",
    "opp": "WSH",
    "home": true,
-   "implied": 17.3
+   "implied": 17.5
   },
   "23": {
    "date": "2026-11-27T20:00Z",
@@ -3001,7 +3001,7 @@
    "abbr": "PIT",
    "opp": "DEN",
    "home": true,
-   "implied": 16.5
+   "implied": 16
   },
   "24": {
    "date": "2026-11-29T21:05Z",
@@ -3009,7 +3009,7 @@
    "abbr": "LAC",
    "opp": "NE",
    "home": true,
-   "implied": 17
+   "implied": 16.5
   },
   "25": {
    "date": "2026-11-29T21:25Z",
@@ -3017,7 +3017,7 @@
    "abbr": "SF",
    "opp": "SEA",
    "home": true,
-   "implied": 23.5
+   "implied": 23.3
   },
   "26": {
    "date": "2026-11-29T21:25Z",
@@ -3025,7 +3025,7 @@
    "abbr": "SEA",
    "opp": "SF",
    "home": false,
-   "implied": 21
+   "implied": 20.3
   },
   "27": {
    "date": "2026-12-01T01:15Z",
@@ -3041,7 +3041,7 @@
    "abbr": "WSH",
    "opp": "ARI",
    "home": false,
-   "implied": 24.3
+   "implied": 24
   },
   "29": {
    "date": "2026-12-01T01:15Z",

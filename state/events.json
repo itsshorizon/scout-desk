@@ -3207,5 +3207,305 @@
   ],
   "trades": [],
   "touchesMyPlayer": false
+ },
+ {
+  "key": "inj:2576925:12:ACTIVE>QUESTIONABLE",
+  "at": "2026-11-26T22:14:24.582Z",
+  "type": "injury",
+  "id": "2576925",
+  "name": "Darren Waller",
+  "pos": "TE",
+  "teamId": 1,
+  "mine": true,
+  "starter": false,
+  "from": "ACTIVE",
+  "to": "QUESTIONABLE"
+ },
+ {
+  "key": "inj:2976212:12:QUESTIONABLE>ACTIVE",
+  "at": "2026-11-26T22:14:24.582Z",
+  "type": "injury",
+  "id": "2976212",
+  "name": "Stefon Diggs",
+  "pos": "WR",
+  "teamId": 14,
+  "mine": false,
+  "starter": true,
+  "from": "QUESTIONABLE",
+  "to": "ACTIVE"
+ },
+ {
+  "key": "inj:3117256:12:ACTIVE>QUESTIONABLE",
+  "at": "2026-11-26T22:14:24.582Z",
+  "type": "injury",
+  "id": "3117256",
+  "name": "Dalton Schultz",
+  "pos": "TE",
+  "teamId": 10,
+  "mine": false,
+  "starter": true,
+  "from": "ACTIVE",
+  "to": "QUESTIONABLE"
+ },
+ {
+  "key": "inj:4035687:12:INJURY_RESERVE>ACTIVE",
+  "at": "2026-11-26T22:14:24.582Z",
+  "type": "injury",
+  "id": "4035687",
+  "name": "Michael Pittman Jr.",
+  "pos": "WR",
+  "teamId": 7,
+  "mine": false,
+  "starter": false,
+  "from": "INJURY_RESERVE",
+  "to": "ACTIVE"
+ },
+ {
+  "key": "inj:4360939:12:QUESTIONABLE>ACTIVE",
+  "at": "2026-11-26T22:14:24.582Z",
+  "type": "injury",
+  "id": "4360939",
+  "name": "Rashod Bateman",
+  "pos": "WR",
+  "teamId": 2,
+  "mine": false,
+  "starter": false,
+  "from": "QUESTIONABLE",
+  "to": "ACTIVE"
+ },
+ {
+  "key": "inj:4372780:12:ACTIVE>QUESTIONABLE",
+  "at": "2026-11-26T22:14:24.582Z",
+  "type": "injury",
+  "id": "4372780",
+  "name": "Tommy Tremble",
+  "pos": "TE",
+  "teamId": 13,
+  "mine": false,
+  "starter": false,
+  "from": "ACTIVE",
+  "to": "QUESTIONABLE"
+ },
+ {
+  "key": "inj:4429615:12:QUESTIONABLE>ACTIVE",
+  "at": "2026-11-26T22:14:24.582Z",
+  "type": "injury",
+  "id": "4429615",
+  "name": "Zay Flowers",
+  "pos": "WR",
+  "teamId": 12,
+  "mine": false,
+  "starter": true,
+  "from": "QUESTIONABLE",
+  "to": "ACTIVE"
+ },
+ {
+  "key": "inj:4431611:12:ACTIVE>QUESTIONABLE",
+  "at": "2026-11-26T22:14:24.582Z",
+  "type": "injury",
+  "id": "4431611",
+  "name": "Caleb Williams",
+  "pos": "QB",
+  "teamId": 9,
+  "mine": false,
+  "starter": false,
+  "from": "ACTIVE",
+  "to": "QUESTIONABLE"
+ },
+ {
+  "key": "inj:4432620:12:ACTIVE>QUESTIONABLE",
+  "at": "2026-11-26T22:14:24.582Z",
+  "type": "injury",
+  "id": "4432620",
+  "name": "Parker Washington",
+  "pos": "WR",
+  "teamId": 6,
+  "mine": false,
+  "starter": true,
+  "from": "ACTIVE",
+  "to": "QUESTIONABLE"
+ },
+ {
+  "key": "inj:4432708:12:QUESTIONABLE>ACTIVE",
+  "at": "2026-11-26T22:14:24.582Z",
+  "type": "injury",
+  "id": "4432708",
+  "name": "Marvin Harrison Jr.",
+  "pos": "WR",
+  "teamId": 9,
+  "mine": false,
+  "starter": true,
+  "from": "QUESTIONABLE",
+  "to": "ACTIVE"
+ },
+ {
+  "key": "inj:4569371:12:QUESTIONABLE>ACTIVE",
+  "at": "2026-11-26T22:14:24.582Z",
+  "type": "injury",
+  "id": "4569371",
+  "name": "Isaiah Williams",
+  "pos": "WR",
+  "teamId": 10,
+  "mine": false,
+  "starter": false,
+  "from": "QUESTIONABLE",
+  "to": "ACTIVE"
+ },
+ {
+  "key": "inj:4723086:12:ACTIVE>QUESTIONABLE",
+  "at": "2026-11-26T22:14:24.582Z",
+  "type": "injury",
+  "id": "4723086",
+  "name": "Colston Loveland",
+  "pos": "TE",
+  "teamId": 9,
+  "mine": false,
+  "starter": false,
+  "from": "ACTIVE",
+  "to": "QUESTIONABLE"
+ },
+ {
+  "key": "txn:9e0eaede-2734-4e82-8917-f44b85c505c4",
+  "at": "2026-11-26T22:14:24.582Z",
+  "type": "move",
+  "teamId": 9,
+  "mine": false,
+  "bid": null,
+  "adds": [
+   {
+    "id": "4368003",
+    "name": "Andrei Iosivas",
+    "teamId": 9
+   }
+  ],
+  "drops": [
+   {
+    "id": "4883647",
+    "name": "Elic Ayomanor",
+    "teamId": 9
+   }
+  ],
+  "trades": [],
+  "touchesMyPlayer": false
+ },
+ {
+  "key": "news:2573401:2026-11-26T03:47:49Z",
+  "at": "2026-11-26T22:14:24.582Z",
+  "type": "news",
+  "id": "2573401",
+  "name": "Tyler Higbee",
+  "mine": true,
+  "headline": "Higbee exited Wednesday's game against the Packers with a chest injury and will not return, Adam Grosbard of The Orange County Register reports.",
+  "when": "2026-11-26T03:47:49Z"
+ },
+ {
+  "key": "news:4360635:2026-11-25T20:43:42Z",
+  "at": "2026-11-26T22:14:24.582Z",
+  "type": "news",
+  "id": "4360635",
+  "name": "Chig Okonkwo",
+  "mine": true,
+  "headline": "Fantasy buzz: How to navigate your roster for the Thanksgiving slate",
+  "when": "2026-11-25T20:43:42Z"
+ },
+ {
+  "key": "news:4429795:2026-11-26T18:57:46Z",
+  "at": "2026-11-26T22:14:24.582Z",
+  "type": "news",
+  "id": "4429795",
+  "name": "Jahmyr Gibbs",
+  "mine": true,
+  "headline": "Live on CBS: Jahmyr Gibbs powers into the end zone for a Lions TD",
+  "when": "2026-11-26T18:57:46Z"
+ },
+ {
+  "key": "news:4431299:2026-11-25T20:43:42Z",
+  "at": "2026-11-26T22:14:24.582Z",
+  "type": "news",
+  "id": "4431299",
+  "name": "Rome Odunze",
+  "mine": true,
+  "headline": "Fantasy buzz: How to navigate your roster for the Thanksgiving slate",
+  "when": "2026-11-25T20:43:42Z"
+ },
+ {
+  "key": "news:4701936:2026-11-26T05:11:18Z",
+  "at": "2026-11-26T22:14:24.582Z",
+  "type": "news",
+  "id": "4701936",
+  "name": "Matthew Golden",
+  "mine": true,
+  "headline": "Golden secured one of five targets for 39 yards in the Packers' 26-13 loss to the Rams on Wednesday night.",
+  "when": "2026-11-26T05:11:18Z"
+ },
+ {
+  "key": "news:4702555:2026-11-25T20:43:42Z",
+  "at": "2026-11-26T22:14:24.582Z",
+  "type": "news",
+  "id": "4702555",
+  "name": "Jonah Coleman",
+  "mine": true,
+  "headline": "Fantasy buzz: How to navigate your roster for the Thanksgiving slate",
+  "when": "2026-11-25T20:43:42Z"
+ },
+ {
+  "key": "news:4710855:2026-11-26T05:42:15Z",
+  "at": "2026-11-26T22:14:24.582Z",
+  "type": "news",
+  "id": "4710855",
+  "name": "Konata Mumpfield",
+  "mine": true,
+  "headline": "Mumpfield brought in four of five targets for 69 yards in the Rams' 26-13 win over the Packers on Wednesday night.",
+  "when": "2026-11-26T05:42:15Z"
+ },
+ {
+  "key": "news:4880281:2026-11-25T20:43:42Z",
+  "at": "2026-11-26T22:14:24.582Z",
+  "type": "news",
+  "id": "4880281",
+  "name": "Jordyn Tyson",
+  "mine": true,
+  "headline": "Fantasy buzz: How to navigate your roster for the Thanksgiving slate",
+  "when": "2026-11-25T20:43:42Z"
+ },
+ {
+  "key": "value:2576925:2026-11-26",
+  "at": "2026-11-26T22:14:24.582Z",
+  "type": "value",
+  "id": "2576925",
+  "name": "Darren Waller",
+  "mine": true,
+  "pct1": -0.123,
+  "pct7": -0.136
+ },
+ {
+  "key": "value:3122840:2026-11-26",
+  "at": "2026-11-26T22:14:24.582Z",
+  "type": "value",
+  "id": "3122840",
+  "name": "Deshaun Watson",
+  "mine": true,
+  "pct1": 0.054,
+  "pct7": 0.112
+ },
+ {
+  "key": "value:4702555:2026-11-26",
+  "at": "2026-11-26T22:14:24.582Z",
+  "type": "value",
+  "id": "4702555",
+  "name": "Jonah Coleman",
+  "mine": true,
+  "pct1": 0.055,
+  "pct7": 0.166
+ },
+ {
+  "key": "value:4710855:2026-11-26",
+  "at": "2026-11-26T22:14:24.582Z",
+  "type": "value",
+  "id": "4710855",
+  "name": "Konata Mumpfield",
+  "mine": true,
+  "pct1": 0.055,
+  "pct7": -0.068
  }
 ]
