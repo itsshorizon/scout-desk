@@ -3010,5 +3010,178 @@
   "mine": true,
   "pct1": 0.098,
   "pct7": -0.143
+ },
+ {
+  "key": "inj:2573401:12:ACTIVE>QUESTIONABLE",
+  "at": "2026-11-26T04:53:58.315Z",
+  "type": "injury",
+  "id": "2573401",
+  "name": "Tyler Higbee",
+  "pos": "TE",
+  "teamId": 1,
+  "mine": true,
+  "starter": false,
+  "from": "ACTIVE",
+  "to": "QUESTIONABLE"
+ },
+ {
+  "key": "inj:3912547:12:QUESTIONABLE>ACTIVE",
+  "at": "2026-11-26T04:53:58.315Z",
+  "type": "injury",
+  "id": "3912547",
+  "name": "Sam Darnold",
+  "pos": "QB",
+  "teamId": 2,
+  "mine": false,
+  "starter": false,
+  "from": "QUESTIONABLE",
+  "to": "ACTIVE"
+ },
+ {
+  "key": "inj:4047365:12:QUESTIONABLE>OUT",
+  "at": "2026-11-26T04:53:58.315Z",
+  "type": "injury",
+  "id": "4047365",
+  "name": "Josh Jacobs",
+  "pos": "RB",
+  "teamId": 6,
+  "mine": false,
+  "starter": false,
+  "from": "QUESTIONABLE",
+  "to": "OUT"
+ },
+ {
+  "key": "inj:4248528:12:ACTIVE>QUESTIONABLE",
+  "at": "2026-11-26T04:53:58.315Z",
+  "type": "injury",
+  "id": "4248528",
+  "name": "Christian Watson",
+  "pos": "WR",
+  "teamId": 10,
+  "mine": false,
+  "starter": false,
+  "from": "ACTIVE",
+  "to": "QUESTIONABLE"
+ },
+ {
+  "key": "inj:4360939:12:ACTIVE>QUESTIONABLE",
+  "at": "2026-11-26T04:53:58.315Z",
+  "type": "injury",
+  "id": "4360939",
+  "name": "Rashod Bateman",
+  "pos": "WR",
+  "teamId": 2,
+  "mine": false,
+  "starter": false,
+  "from": "ACTIVE",
+  "to": "QUESTIONABLE"
+ },
+ {
+  "key": "inj:4426553:12:ACTIVE>QUESTIONABLE",
+  "at": "2026-11-26T04:53:58.315Z",
+  "type": "injury",
+  "id": "4426553",
+  "name": "Davis Allen",
+  "pos": "TE",
+  "teamId": 10,
+  "mine": false,
+  "starter": false,
+  "from": "ACTIVE",
+  "to": "QUESTIONABLE"
+ },
+ {
+  "key": "inj:4429615:12:ACTIVE>QUESTIONABLE",
+  "at": "2026-11-26T04:53:58.315Z",
+  "type": "injury",
+  "id": "4429615",
+  "name": "Zay Flowers",
+  "pos": "WR",
+  "teamId": 12,
+  "mine": false,
+  "starter": true,
+  "from": "ACTIVE",
+  "to": "QUESTIONABLE"
+ },
+ {
+  "key": "inj:4430878:12:ACTIVE>QUESTIONABLE",
+  "at": "2026-11-26T04:53:58.315Z",
+  "type": "injury",
+  "id": "4430878",
+  "name": "Jaxon Smith-Njigba",
+  "pos": "WR",
+  "teamId": 5,
+  "mine": false,
+  "starter": true,
+  "from": "ACTIVE",
+  "to": "QUESTIONABLE"
+ },
+ {
+  "key": "inj:4431466:12:ACTIVE>QUESTIONABLE",
+  "at": "2026-11-26T04:53:58.315Z",
+  "type": "injury",
+  "id": "4431466",
+  "name": "Jordan Watkins",
+  "pos": "WR",
+  "teamId": 10,
+  "mine": false,
+  "starter": false,
+  "from": "ACTIVE",
+  "to": "QUESTIONABLE"
+ },
+ {
+  "key": "inj:4567156:12:ACTIVE>QUESTIONABLE",
+  "at": "2026-11-26T04:53:58.315Z",
+  "type": "injury",
+  "id": "4567156",
+  "name": "Treylon Burks",
+  "pos": "WR",
+  "teamId": 13,
+  "mine": false,
+  "starter": false,
+  "from": "ACTIVE",
+  "to": "QUESTIONABLE"
+ },
+ {
+  "key": "txn:ed8435de-5c22-4334-9eb1-256b0f637b48",
+  "at": "2026-11-26T04:53:58.315Z",
+  "type": "move",
+  "teamId": 1,
+  "mine": true,
+  "bid": null,
+  "adds": [
+   {
+    "id": "4429084",
+    "name": "Anthony Richardson Sr.",
+    "teamId": 1
+   }
+  ],
+  "drops": [
+   {
+    "id": "4685415",
+    "name": "Travis Hunter",
+    "teamId": 1
+   }
+  ],
+  "trades": [],
+  "touchesMyPlayer": true
+ },
+ {
+  "key": "news:4429084:2026-11-25T15:48:34Z",
+  "at": "2026-11-26T04:53:58.315Z",
+  "type": "news",
+  "id": "4429084",
+  "name": "Anthony Richardson Sr.",
+  "mine": true,
+  "headline": "Fantasy football free agent pickups: Grab your Rams and Packers quickly",
+  "when": "2026-11-25T15:48:34Z"
+ },
+ {
+  "key": "trend:3116407:2026-11-26",
+  "at": "2026-11-26T04:53:58.315Z",
+  "type": "trending",
+  "id": "3116407",
+  "name": "Mason Rudolph",
+  "mine": false,
+  "adds24h": 274924
  }
 ]
