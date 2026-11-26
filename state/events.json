@@ -3183,5 +3183,29 @@
   "name": "Mason Rudolph",
   "mine": false,
   "adds24h": 274924
+ },
+ {
+  "key": "txn:b4b455f3-7146-47d8-8ec1-fadd28a416d9",
+  "at": "2026-11-26T08:04:10.632Z",
+  "type": "move",
+  "teamId": 7,
+  "mine": false,
+  "bid": null,
+  "adds": [
+   {
+    "id": "3123076",
+    "name": "David Njoku",
+    "teamId": 7
+   }
+  ],
+  "drops": [
+   {
+    "id": "4249836",
+    "name": "Pierre Strong Jr.",
+    "teamId": 7
+   }
+  ],
+  "trades": [],
+  "touchesMyPlayer": false
  }
 ]

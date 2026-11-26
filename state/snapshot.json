@@ -1,5 +1,5 @@
 {
- "at": "2026-11-26T04:53:58.315Z",
+ "at": "2026-11-26T08:04:10.632Z",
  "myTeamId": 1,
  "week": 12,
  "slots": {
@@ -1551,7 +1551,7 @@
     "id": "4360569",
     "name": "Jordan Mason",
     "pos": "RB",
-    "slot": "FLEX",
+    "slot": "BE",
     "pro": 16,
     "inj": "ACTIVE",
     "proj": 11.5
@@ -1605,7 +1605,7 @@
     "id": "5083754",
     "name": "Ryan Flournoy",
     "pos": "WR",
-    "slot": "BE",
+    "slot": "FLEX",
     "pro": 6,
     "inj": "ACTIVE",
     "proj": 8
@@ -1623,7 +1623,7 @@
     "id": "4831959",
     "name": "Eli Raridon",
     "pos": "TE",
-    "slot": "TE",
+    "slot": "BE",
     "pro": 17,
     "inj": "ACTIVE",
     "proj": 8.3
@@ -1632,7 +1632,7 @@
     "id": "3929645",
     "name": "Juwan Johnson",
     "pos": "TE",
-    "slot": "BE",
+    "slot": "TE",
     "pro": 18,
     "inj": "QUESTIONABLE",
     "proj": 6.4
@@ -1665,15 +1665,6 @@
     "proj": 20.3
    },
    {
-    "id": "4249836",
-    "name": "Pierre Strong Jr.",
-    "pos": "RB",
-    "slot": "BE",
-    "pro": 0,
-    "inj": "ACTIVE",
-    "proj": 0
-   },
-   {
     "id": "4430841",
     "name": "Carson Beck",
     "pos": "QB",
@@ -1690,6 +1681,15 @@
     "pro": 11,
     "inj": "ACTIVE",
     "proj": 6.2
+   },
+   {
+    "id": "3123076",
+    "name": "David Njoku",
+    "pos": "TE",
+    "slot": "BE",
+    "pro": 24,
+    "inj": "QUESTIONABLE",
+    "proj": 7.3
    }
   ],
   "9": [
@@ -2857,7 +2857,7 @@
    "abbr": "CLE",
    "opp": "LV",
    "home": true,
-   "implied": 22
+   "implied": 22.5
   },
   "6": {
    "date": "2026-11-26T21:30Z",
@@ -2921,7 +2921,7 @@
    "abbr": "LV",
    "opp": "CLE",
    "home": false,
-   "implied": 17.5
+   "implied": 18
   },
   "14": {
    "date": "2026-11-26T01:00Z",
