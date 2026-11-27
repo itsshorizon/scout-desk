@@ -1,5 +1,5 @@
 {
- "at": "2026-11-27T08:48:53.741Z",
+ "at": "2026-11-27T21:53:53.081Z",
  "myTeamId": 1,
  "week": 12,
  "slots": {
@@ -454,7 +454,7 @@
     "pos": "TE",
     "slot": "FLEX",
     "pro": 19,
-    "inj": "QUESTIONABLE",
+    "inj": "ACTIVE",
     "proj": 14.6
    },
    {
@@ -571,7 +571,7 @@
     "pos": "WR",
     "slot": "BE",
     "pro": 16,
-    "inj": "DOUBTFUL",
+    "inj": "OUT",
     "proj": 0
    },
    {
@@ -607,9 +607,9 @@
     "id": "4882093",
     "name": "Bhayshul Tuten",
     "pos": "RB",
-    "slot": "RB",
+    "slot": "BE",
     "pro": 30,
-    "inj": "QUESTIONABLE",
+    "inj": "OUT",
     "proj": 18.6
    },
    {
@@ -654,7 +654,7 @@
     "pos": "RB",
     "slot": "BE",
     "pro": 34,
-    "inj": "QUESTIONABLE",
+    "inj": "ACTIVE",
     "proj": 8.4
    },
    {
@@ -706,7 +706,7 @@
     "id": "3116389",
     "name": "Samaje Perine",
     "pos": "RB",
-    "slot": "BE",
+    "slot": "RB",
     "pro": 4,
     "inj": "ACTIVE",
     "proj": 8.5
@@ -790,7 +790,7 @@
     "slot": "BE",
     "pro": 22,
     "inj": "ACTIVE",
-    "proj": 8.3
+    "proj": 8.2
    },
    {
     "id": "4429022",
@@ -798,7 +798,7 @@
     "pos": "WR",
     "slot": "BE",
     "pro": 34,
-    "inj": "QUESTIONABLE",
+    "inj": "OUT",
     "proj": 5.2
    },
    {
@@ -828,7 +828,7 @@
     "slot": "TE",
     "pro": 22,
     "inj": "ACTIVE",
-    "proj": 18
+    "proj": 17.7
    },
    {
     "id": "4428331",
@@ -845,7 +845,7 @@
     "pos": "QB",
     "slot": "IR",
     "pro": 16,
-    "inj": "QUESTIONABLE",
+    "inj": "ACTIVE",
     "proj": 0
    },
    {
@@ -1007,7 +1007,7 @@
     "pos": "WR",
     "slot": "BE",
     "pro": 20,
-    "inj": "QUESTIONABLE",
+    "inj": "OUT",
     "proj": 9
    },
    {
@@ -1036,7 +1036,7 @@
     "pos": "WR",
     "slot": "WR",
     "pro": 26,
-    "inj": "QUESTIONABLE",
+    "inj": "ACTIVE",
     "proj": 21.6
    },
    {
@@ -1263,7 +1263,7 @@
     "pos": "WR",
     "slot": "BE",
     "pro": 17,
-    "inj": "DOUBTFUL",
+    "inj": "OUT",
     "proj": 0
    },
    {
@@ -1272,7 +1272,7 @@
     "pos": "WR",
     "slot": "WR",
     "pro": 30,
-    "inj": "QUESTIONABLE",
+    "inj": "OUT",
     "proj": 17.8
    },
    {
@@ -1491,7 +1491,7 @@
     "slot": "FLEX",
     "pro": 3,
     "inj": "ACTIVE",
-    "proj": 13
+    "proj": 13.1
    },
    {
     "id": "4426338",
@@ -1536,7 +1536,7 @@
     "slot": "QB",
     "pro": 12,
     "inj": "ACTIVE",
-    "proj": 20.9
+    "proj": 21
    },
    {
     "id": "4241416",
@@ -1572,7 +1572,7 @@
     "slot": "BE",
     "pro": 22,
     "inj": "ACTIVE",
-    "proj": 8.5
+    "proj": 8.3
    },
    {
     "id": "4586312",
@@ -1634,7 +1634,7 @@
     "pos": "TE",
     "slot": "TE",
     "pro": 18,
-    "inj": "QUESTIONABLE",
+    "inj": "OUT",
     "proj": 6.4
    },
    {
@@ -1670,8 +1670,8 @@
     "pos": "QB",
     "slot": "BE",
     "pro": 22,
-    "inj": "QUESTIONABLE",
-    "proj": 14.1
+    "inj": "OUT",
+    "proj": 0
    },
    {
     "id": "3051889",
@@ -1708,7 +1708,7 @@
     "pos": "TE",
     "slot": "BE",
     "pro": 3,
-    "inj": "QUESTIONABLE",
+    "inj": "DOUBTFUL",
     "proj": 12.7
    },
    {
@@ -2016,7 +2016,7 @@
     "pos": "TE",
     "slot": "FLEX",
     "pro": 34,
-    "inj": "QUESTIONABLE",
+    "inj": "ACTIVE",
     "proj": 9.2
    },
    {
@@ -2034,7 +2034,7 @@
     "pos": "WR",
     "slot": "BE",
     "pro": 1,
-    "inj": "QUESTIONABLE",
+    "inj": "OUT",
     "proj": 7.4
    },
    {
@@ -2106,7 +2106,7 @@
     "pos": "TE",
     "slot": "BE",
     "pro": 14,
-    "inj": "QUESTIONABLE",
+    "inj": "DOUBTFUL",
     "proj": 5.2
    },
    {
@@ -2380,7 +2380,7 @@
     "pos": "RB",
     "slot": "FLEX",
     "pro": 33,
-    "inj": "QUESTIONABLE",
+    "inj": "ACTIVE",
     "proj": 14.5
    },
    {
@@ -2407,7 +2407,7 @@
     "pos": "WR",
     "slot": "WR",
     "pro": 4,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 15.8
    },
    {
@@ -2542,7 +2542,7 @@
     "pos": "WR",
     "slot": "BE",
     "pro": 27,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 6.4
    },
    {
@@ -2578,7 +2578,7 @@
     "pos": "WR",
     "slot": "BE",
     "pro": 28,
-    "inj": "QUESTIONABLE",
+    "inj": "ACTIVE",
     "proj": 7.5
    }
   ],
@@ -2661,7 +2661,7 @@
     "pos": "WR",
     "slot": "FLEX",
     "pro": 30,
-    "inj": "QUESTIONABLE",
+    "inj": "ACTIVE",
     "proj": 12.4
    },
    {
@@ -2849,7 +2849,7 @@
    "abbr": "CIN",
    "opp": "NO",
    "home": true,
-   "implied": 29.8
+   "implied": 29
   },
   "5": {
    "date": "2026-11-30T01:20Z",
@@ -2857,7 +2857,7 @@
    "abbr": "CLE",
    "opp": "LV",
    "home": true,
-   "implied": 22.5
+   "implied": 22
   },
   "6": {
    "date": "2026-11-26T21:30Z",
@@ -2869,11 +2869,11 @@
   },
   "7": {
    "date": "2026-11-27T20:00Z",
-   "state": "pre",
+   "state": "in",
    "abbr": "DEN",
    "opp": "PIT",
    "home": false,
-   "implied": 21
+   "implied": null
   },
   "8": {
    "date": "2026-11-26T18:00Z",
@@ -2897,7 +2897,7 @@
    "abbr": "TEN",
    "opp": "JAX",
    "home": false,
-   "implied": 17.5
+   "implied": 17.3
   },
   "11": {
    "date": "2026-11-29T18:00Z",
@@ -2905,7 +2905,7 @@
    "abbr": "IND",
    "opp": "NYG",
    "home": true,
-   "implied": 17.8
+   "implied": 18
   },
   "12": {
    "date": "2026-11-27T01:20Z",
@@ -2921,7 +2921,7 @@
    "abbr": "LV",
    "opp": "CLE",
    "home": false,
-   "implied": 18
+   "implied": 17.5
   },
   "14": {
    "date": "2026-11-26T01:00Z",
@@ -2961,7 +2961,7 @@
    "abbr": "NO",
    "opp": "CIN",
    "home": false,
-   "implied": 19.8
+   "implied": 19.5
   },
   "19": {
    "date": "2026-11-29T18:00Z",
@@ -2969,7 +2969,7 @@
    "abbr": "NYG",
    "opp": "IND",
    "home": false,
-   "implied": 23.8
+   "implied": 23.5
   },
   "20": {
    "date": "2026-11-29T18:00Z",
@@ -2997,11 +2997,11 @@
   },
   "23": {
    "date": "2026-11-27T20:00Z",
-   "state": "pre",
+   "state": "in",
    "abbr": "PIT",
    "opp": "DEN",
    "home": true,
-   "implied": 16.5
+   "implied": null
   },
   "24": {
    "date": "2026-11-29T21:05Z",
@@ -3017,7 +3017,7 @@
    "abbr": "SF",
    "opp": "SEA",
    "home": true,
-   "implied": 23.3
+   "implied": 23
   },
   "26": {
    "date": "2026-11-29T21:25Z",
@@ -3025,7 +3025,7 @@
    "abbr": "SEA",
    "opp": "SF",
    "home": false,
-   "implied": 20.3
+   "implied": 20.5
   },
   "27": {
    "date": "2026-12-01T01:15Z",
@@ -3057,7 +3057,7 @@
    "abbr": "JAX",
    "opp": "TEN",
    "home": true,
-   "implied": 32
+   "implied": 31.3
   },
   "33": {
    "date": "2026-11-29T18:00Z",
