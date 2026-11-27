@@ -1,5 +1,5 @@
 {
- "at": "2026-11-26T22:14:24.582Z",
+ "at": "2026-11-27T04:55:02.821Z",
  "myTeamId": 1,
  "week": 12,
  "slots": {
@@ -627,7 +627,7 @@
     "pos": "TE",
     "slot": "TE",
     "pro": 5,
-    "inj": "QUESTIONABLE",
+    "inj": "ACTIVE",
     "proj": 13.2
    },
    {
@@ -1072,7 +1072,7 @@
     "pos": "TE",
     "slot": "TE",
     "pro": 21,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 10.2
    },
    {
@@ -1926,7 +1926,7 @@
     "pos": "RB",
     "slot": "RB",
     "pro": 21,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 14.2
    },
    {
@@ -2234,7 +2234,7 @@
     "pos": "TE",
     "slot": "TE",
     "pro": 2,
-    "inj": "QUESTIONABLE",
+    "inj": "ACTIVE",
     "proj": 9.9
    },
    {
@@ -2515,7 +2515,7 @@
     "pos": "WR",
     "slot": "WR",
     "pro": 21,
-    "inj": "ACTIVE",
+    "inj": "QUESTIONABLE",
     "proj": 14.4
    },
    {
@@ -2829,11 +2829,11 @@
   },
   "2": {
    "date": "2026-11-27T01:20Z",
-   "state": "pre",
+   "state": "post",
    "abbr": "BUF",
    "opp": "KC",
    "home": true,
-   "implied": 24.3
+   "implied": null
   },
   "3": {
    "date": "2026-11-26T18:00Z",
@@ -2861,7 +2861,7 @@
   },
   "6": {
    "date": "2026-11-26T21:30Z",
-   "state": "in",
+   "state": "post",
    "abbr": "DAL",
    "opp": "PHI",
    "home": true,
@@ -2873,7 +2873,7 @@
    "abbr": "DEN",
    "opp": "PIT",
    "home": false,
-   "implied": 20.5
+   "implied": 21
   },
   "8": {
    "date": "2026-11-26T18:00Z",
@@ -2909,11 +2909,11 @@
   },
   "12": {
    "date": "2026-11-27T01:20Z",
-   "state": "pre",
+   "state": "post",
    "abbr": "KC",
    "opp": "BUF",
    "home": false,
-   "implied": 21.3
+   "implied": null
   },
   "13": {
    "date": "2026-11-30T01:20Z",
@@ -2937,7 +2937,7 @@
    "abbr": "MIA",
    "opp": "NYJ",
    "home": true,
-   "implied": 17.5
+   "implied": 17
   },
   "16": {
    "date": "2026-11-29T18:00Z",
@@ -2977,11 +2977,11 @@
    "abbr": "NYJ",
    "opp": "MIA",
    "home": false,
-   "implied": 22
+   "implied": 22.5
   },
   "21": {
    "date": "2026-11-26T21:30Z",
-   "state": "in",
+   "state": "post",
    "abbr": "PHI",
    "opp": "DAL",
    "home": false,
@@ -3001,7 +3001,7 @@
    "abbr": "PIT",
    "opp": "DEN",
    "home": true,
-   "implied": 16
+   "implied": 16.5
   },
   "24": {
    "date": "2026-11-29T21:05Z",
