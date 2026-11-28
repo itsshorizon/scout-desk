@@ -4054,5 +4054,90 @@
   "mine": true,
   "pct1": -0.052,
   "pct7": 0.006
+ },
+ {
+  "key": "inj:4038941:12:QUESTIONABLE>OUT",
+  "at": "2026-11-28T03:49:50.230Z",
+  "type": "injury",
+  "id": "4038941",
+  "name": "Justin Herbert",
+  "pos": "QB",
+  "teamId": 2,
+  "mine": false,
+  "starter": false,
+  "from": "QUESTIONABLE",
+  "to": "OUT"
+ },
+ {
+  "key": "inj:4361741:12:QUESTIONABLE>OUT",
+  "at": "2026-11-28T03:49:50.230Z",
+  "type": "injury",
+  "id": "4361741",
+  "name": "Brock Purdy",
+  "pos": "QB",
+  "teamId": 12,
+  "mine": false,
+  "starter": true,
+  "from": "QUESTIONABLE",
+  "to": "OUT"
+ },
+ {
+  "key": "inj:4431466:12:QUESTIONABLE>OUT",
+  "at": "2026-11-28T03:49:50.230Z",
+  "type": "injury",
+  "id": "4431466",
+  "name": "Jordan Watkins",
+  "pos": "WR",
+  "teamId": 10,
+  "mine": false,
+  "starter": false,
+  "from": "QUESTIONABLE",
+  "to": "OUT"
+ },
+ {
+  "key": "inj:4596334:12:QUESTIONABLE>OUT",
+  "at": "2026-11-28T03:49:50.230Z",
+  "type": "injury",
+  "id": "4596334",
+  "name": "Keaton Mitchell",
+  "pos": "RB",
+  "teamId": 2,
+  "mine": false,
+  "starter": false,
+  "from": "QUESTIONABLE",
+  "to": "OUT"
+ },
+ {
+  "key": "txn:7b615a0f-fb2f-4289-8ea0-2004ea927f04",
+  "at": "2026-11-28T03:49:50.230Z",
+  "type": "move",
+  "teamId": 5,
+  "mine": false,
+  "bid": null,
+  "adds": [
+   {
+    "id": "4683243",
+    "name": "Mitchell Evans",
+    "teamId": 5
+   }
+  ],
+  "drops": [
+   {
+    "id": "4870847",
+    "name": "Ja'Kobi Lane",
+    "teamId": 5
+   }
+  ],
+  "trades": [],
+  "touchesMyPlayer": false
+ },
+ {
+  "key": "trend:11394:2026-11-28",
+  "at": "2026-11-28T03:49:50.230Z",
+  "type": "trending",
+  "id": "11394",
+  "name": "Josh Johnson",
+  "mine": false,
+  "adds24h": 13913
  }
 ]
