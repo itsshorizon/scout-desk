@@ -1,5 +1,5 @@
 {
- "at": "2026-11-28T03:49:50.230Z",
+ "at": "2026-11-28T07:36:03.481Z",
  "myTeamId": 1,
  "week": 12,
  "slots": {
@@ -1270,7 +1270,7 @@
     "id": "4432620",
     "name": "Parker Washington",
     "pos": "WR",
-    "slot": "WR",
+    "slot": "BE",
     "pro": 30,
     "inj": "OUT",
     "proj": 0
@@ -1351,7 +1351,7 @@
     "id": "4427095",
     "name": "DeMario Douglas",
     "pos": "WR",
-    "slot": "BE",
+    "slot": "WR",
     "pro": 17,
     "inj": "ACTIVE",
     "proj": 8.8
@@ -2857,7 +2857,7 @@
    "abbr": "CLE",
    "opp": "LV",
    "home": true,
-   "implied": 22
+   "implied": 21.5
   },
   "6": {
    "date": "2026-11-26T21:30Z",
@@ -2921,7 +2921,7 @@
    "abbr": "LV",
    "opp": "CLE",
    "home": false,
-   "implied": 17.5
+   "implied": 17
   },
   "14": {
    "date": "2026-11-26T01:00Z",
